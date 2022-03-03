@@ -2,6 +2,8 @@ import { graphql, useStaticQuery } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import * as React from "react"
+import Footer from "../components/footer"
+import Header from "../components/header"
 
 // styles
 const pageStyles = {
@@ -137,20 +139,38 @@ const links = [
 
 // markup
 const IndexPage = () => {
-  const data = useStaticQuery(graphql`
-    query MyQuery {
-      allImageSharp {
+  let chapterNumber = 1
+  const plantData = useStaticQuery(graphql`
+    query plants {
+      allFile(filter: {extension: {eq: "jpg"}, relativeDirectory: {eq: "Chapter 1"}}) {
         nodes {
-          original {
-            src
+          relativeDirectory
+          extension
+          name
+          publicURL
+        }
+      },
+      allChapter1Json {
+        edges {
+          node {
+            commonName
+            latinName
           }
         }
       }
     }`)
-    let image = data["allImageSharp"]["nodes"].map((node) => <img width="51%" src={node["original"]["src"]} />)
-    console.log(image)
+    let plants = plantData["allFile"]["nodes"].map((node) => {
+      let description = plantData["allChapter1Json"]["edges"].filter((edge) => edge["node"]["commonName"] == node["name"].replace("_", " "))[0]["node"]
+      return (
+      <>
+        <img width="25%" src={node["publicURL"]} />
+        <p>{description["commonName"]}</p>
+        <p style={{fontStyle: 'italic'}}>{description["latinName"]}</p>
+      </>
+    )})
   return (
     <main style={pageStyles}>
+      <Header/>
       <title>Home Page</title>
       <h1 style={headingStyles}>
         Hello botany world! 
@@ -158,7 +178,8 @@ const IndexPage = () => {
       <p style={paragraphStyles}>
         A few image examples from chapter 1 and 2
       </p>
-      {image}
+      {plants}
+      <Footer/>
     </main>
   )
 }
