@@ -1,0 +1,42 @@
+[
+    {
+        "chapterNumber": "1",
+        "plants": [
+            {
+                "commonName": "Agrimony",
+                "latinName": "Agrimonia eupatoria",
+                "imageName":"Agrimony.JPG"
+            },
+            {
+                "commonName": "Honeysuckle",
+                "latinName": "Lonicera periclymenum",
+                "imageName":"Honeysuckle.JPG"
+            },
+            {
+                "commonName": "Pyramidal Orchid",
+                "latinName": "Anacamptis pyramidalis",
+                "imageName":"Pyramidal_Orchid.JPG"
+            }
+        ]
+    },
+    {
+        "chapterNumber": "2",
+        "plants": [
+            {
+                "commonName": "Daisy",
+                "latinName": "Bellis perennis",
+                "imageName":"Daisy.JPG"
+            },
+            {
+                "commonName": "Ivy-leaved Toadflax",
+                "latinName": "Cymbalaria muralis",
+                "imageName":"Ivy-leaved_Toadflax.JPG"
+            },
+            {
+                "commonName": "Shaggy-soldier",
+                "latinName": "Galinsoga quadriradiata",
+                "imageName":"Shaggy-soldier.JPG"
+            }
+        ]
+    }
+]

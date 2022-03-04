@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
-      title: ``,
-        siteUrl: `https://www.yourdomain.tld`,
+      title: `Where the wildflowers grow`,
+        siteUrl: `https://www.wherethewildflowersgrow.co.uk`,
     },
     plugins: [
       `gatsby-plugin-image`,
