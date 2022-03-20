@@ -1,9 +1,13 @@
 import React from "react"
+import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 
 export default function Plant(props) {
   return (
     <>
-      <img width="25%" src={props.src} />
+      <GatsbyImage
+        image={getImage(props.relativeImagePath)}
+        alt="alt text"
+      />
       <p>{props.commonName}</p>
       <p style={{fontStyle: 'italic'}}>{props.latinName}</p>
     </>

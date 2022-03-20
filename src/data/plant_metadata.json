@@ -5,17 +5,20 @@
             {
                 "commonName": "Agrimony",
                 "latinName": "Agrimonia eupatoria",
-                "imageName":"Agrimony.JPG"
+                "imageName":"Agrimony.JPG",
+                "relativeImagePath": "./plant_images/Agrimony.JPG"
             },
             {
                 "commonName": "Honeysuckle",
                 "latinName": "Lonicera periclymenum",
-                "imageName":"Honeysuckle.JPG"
+                "imageName":"Honeysuckle.JPG",
+                "relativeImagePath": "./plant_images/Honeysuckle.JPG"
             },
             {
                 "commonName": "Pyramidal Orchid",
                 "latinName": "Anacamptis pyramidalis",
-                "imageName":"Pyramidal_Orchid.JPG"
+                "imageName":"Pyramidal_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Pyramidal_Orchid.JPG"
             }
         ]
     },
@@ -25,17 +28,20 @@
             {
                 "commonName": "Daisy",
                 "latinName": "Bellis perennis",
-                "imageName":"Daisy.JPG"
+                "imageName":"Daisy.JPG",
+                "relativeImagePath": "./plant_images/Daisy.JPG"
             },
             {
                 "commonName": "Ivy-leaved Toadflax",
                 "latinName": "Cymbalaria muralis",
-                "imageName":"Ivy-leaved_Toadflax.JPG"
+                "imageName":"Ivy-leaved_Toadflax.JPG",
+                "relativeImagePath": "./plant_images/Ivy-leaved_Toadflax.JPG"
             },
             {
                 "commonName": "Shaggy-soldier",
                 "latinName": "Galinsoga quadriradiata",
-                "imageName":"Shaggy-soldier.JPG"
+                "imageName":"Shaggy-soldier.JPG",
+                "relativeImagePath": "./plant_images/Shaggy-soldier.JPG"
             }
         ]
     }
