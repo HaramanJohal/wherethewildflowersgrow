@@ -1,0 +1,11 @@
+.nav-links {
+  display: flex;
+  list-style: none;
+  padding-left: 200;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header-container {
+  text-align: center;
+}

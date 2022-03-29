@@ -2,12 +2,20 @@ import React from "react"
 import Footer from "./footer"
 import Header from "./header"
 
+import { container } from './layout.module.css'
+
 export default function Layout(props) {
   return (
-    <>
-      <Header/>
+    <div className={container}>
+      <body>
+        <header>
+          <Header/>
+        </header>
         {props.children}
-      <Footer/>
-    </>
+        <footer>
+          <Footer/>
+        </footer>
+      </body>
+    </div>
   )
 }

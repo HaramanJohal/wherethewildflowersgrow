@@ -2,6 +2,8 @@ import React from "react"
 import { graphql } from 'gatsby'
 
 import Layout from "../../components/layout"
+import ChapterHeader from "../../components/chapterHeader"
+import Gallery from "../../components/gallery"
 import Plant from "../../components/plant"
 
 export default function Chapter({ data, pageContext }) {
@@ -12,8 +14,10 @@ export default function Chapter({ data, pageContext }) {
   )
   return(
     <Layout>
-      <p>Hello, I am chapter {data.allPlantMetadataJson.nodes[0].chapterNumber}</p>
-      {images}
+      <ChapterHeader heading={`Plants from chapter ${data.allPlantMetadataJson.nodes[0].chapterNumber}`}/>
+      <Gallery>
+        {images}
+      </Gallery>
     </Layout>
   )
 }
