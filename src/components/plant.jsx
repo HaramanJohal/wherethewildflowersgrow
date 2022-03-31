@@ -1,7 +1,7 @@
 import React from "react"
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 
-import { plantImage } from './plant.module.css'
+import { plantImage, plantLabel } from './plant.module.css'
 
 export default function Plant(props) {
   return (
@@ -11,8 +11,10 @@ export default function Plant(props) {
         alt="alt text"
         className={plantImage}
       />
-      <p>{props.commonName}</p>
-      <p style={{fontStyle: 'italic'}}>{props.latinName}</p>
+      <div className={plantLabel}>
+        <p>{props.commonName}</p>
+        <p style={{fontStyle: 'italic'}}>{props.latinName}</p>
+      </div>
     </div>
   )
 }

@@ -5,3 +5,21 @@
   justify-content: space-around;
   align-items: center;
 }
+
+.twitter, .instagram, .website {
+  width: 5%;
+  position: absolute;
+  top: 45%;
+}
+
+.twitter {
+  left: 70%;
+}
+
+.instagram {
+  left: 80%;
+}
+
+.website {
+  left: 90%;
+}

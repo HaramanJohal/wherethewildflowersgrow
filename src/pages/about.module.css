@@ -1,0 +1,37 @@
+.cover-image {
+  width: 40%;
+  float: left;
+}
+
+.synopsis {
+  width: 56%;
+  float: right;
+  display: flex;
+  align-items: center; /* align vertical */
+  font-size: 25px;
+}
+
+.leif-image {
+  width: 40%;
+  float: right;
+}
+
+.bio {
+  width: 56%;
+  float: left;
+  display: flex;
+  align-items: center; /* align vertical */
+  font-size: 25px;
+}
+
+.buy-it {
+  color: black;
+  text-decoration: underline;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.buy-it:hover {
+  text-decoration: none;
+}
+

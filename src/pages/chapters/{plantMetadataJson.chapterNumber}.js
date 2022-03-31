@@ -14,7 +14,8 @@ export default function Chapter({ data, pageContext }) {
   )
   return(
     <Layout>
-      <ChapterHeader heading={`Plants from chapter ${data.allPlantMetadataJson.nodes[0].chapterNumber}`}/>
+      <ChapterHeader heading={`Chapter ${data.allPlantMetadataJson.nodes[0].chapterNumber}`}/>
+      <p>Photographs © Leif Bersweden unless stated otherwise</p>
       <Gallery>
         {images}
       </Gallery>

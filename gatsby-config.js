@@ -14,6 +14,14 @@ module.exports = {
           name: `data`,
           path: `${__dirname}/src/data`
         }
+      },
+      {
+        resolve: 'gatsby-plugin-web-font-loader',
+        options: {
+          google: {
+            families: ['EB Garamond']
+          }
+        }
       }
     ]
 }
