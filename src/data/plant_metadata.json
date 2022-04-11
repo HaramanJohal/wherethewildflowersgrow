@@ -5,20 +5,198 @@
             {
                 "commonName": "Agrimony",
                 "latinName": "Agrimonia eupatoria",
-                "imageName":"Agrimony.JPG",
-                "relativeImagePath": "./plant_images/Agrimony.JPG"
+                "imageName": "Agrimony.JPG",
+                "relativeImagePath": "./plant_images/Agrimony.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Beech",
+                "latinName": "Fagus sylvatica",
+                "imageName": "Beech.JPG",
+                "relativeImagePath": "./plant_images/Beech.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Blackthorn",
+                "latinName": "Prunus spinosa",
+                "imageName": "Blackthorn.JPG",
+                "relativeImagePath": "./plant_images/Blackthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Blue Fleabane",
+                "latinName": "Erigeron acer",
+                "imageName": "Blue_Fleabane.JPG",
+                "relativeImagePath": "./plant_images/Blue_Fleabane.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bluebell",
+                "latinName": "Hyacinthoides non-scripta",
+                "imageName": "Bluebell.JPG",
+                "relativeImagePath": "./plant_images/Bluebell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cow Parsley",
+                "latinName": "Anthriscus sylvestris",
+                "imageName": "Cow_Parsley.JPG",
+                "relativeImagePath": "./plant_images/Cow_Parsley.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cowslip",
+                "latinName": "Primula veris",
+                "imageName": "Cowslip.JPG",
+                "relativeImagePath": "./plant_images/Cowslip.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dandelion",
+                "latinName": "Taraxacum officinale agg.",
+                "imageName": "Dandelion.JPG",
+                "relativeImagePath": "./plant_images/Dandelion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Fly Orchid",
+                "latinName": "Ophrys insectifera",
+                "imageName": "Fly_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Fly_Orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Greater Butterfly-orchid",
+                "latinName": "Platanthera chlorantha",
+                "imageName": "Greater_Butterfly_orchid.JPG",
+                "relativeImagePath": "./plant_images/Greater_Butterfly_orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Greater Stitchwort",
+                "latinName": "Stellaria holostea",
+                "imageName": "Greater_Stitchwort.JPG",
+                "relativeImagePath": "./plant_images/Greater_Stitchwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hairy Violet",
+                "latinName": "Viola hirta",
+                "imageName": "Hairy_Violet.JPG",
+                "relativeImagePath": "./plant_images/Hairy_Violet.JPG",
+                "copyrightName": ""
             },
             {
                 "commonName": "Honeysuckle",
                 "latinName": "Lonicera periclymenum",
-                "imageName":"Honeysuckle.JPG",
-                "relativeImagePath": "./plant_images/Honeysuckle.JPG"
+                "imageName": "Honeysuckle.JPG",
+                "relativeImagePath": "./plant_images/Honeysuckle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Horseshoe Vetch",
+                "latinName": "Hippocrepis comosa",
+                "imageName": "Horseshoe_Vetch.JPG",
+                "relativeImagePath": "./plant_images/Horseshoe_Vetch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ivy",
+                "latinName": "Hedera helix",
+                "imageName": "Ivy.JPG",
+                "relativeImagePath": "./plant_images/Ivy.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Knapweed Broomrape",
+                "latinName": "Orobanche elatior",
+                "imageName": "Knapweed_Broomrape.JPG",
+                "relativeImagePath": "./plant_images/Knapweed_Broomrape.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lesser Celandine",
+                "latinName": "Ficaria verna",
+                "imageName": "Lesser_Celandine.JPG",
+                "relativeImagePath": "./plant_images/Lesser_Celandine.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ox-eye Daisy",
+                "latinName": "Leucanthemum vulgare",
+                "imageName": "Ox_eye_Daisy.JPG",
+                "relativeImagePath": "./plant_images/Ox_eye_Daisy.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Perforate St John's-wort",
+                "latinName": "Hypericum perforatum",
+                "imageName": "Perforate_St_John_s_wort.JPG",
+                "relativeImagePath": "./plant_images/Perforate_St_John_s_wort.JPG",
+                "copyrightName": ""
             },
             {
                 "commonName": "Pyramidal Orchid",
                 "latinName": "Anacamptis pyramidalis",
-                "imageName":"Pyramidal_Orchid.JPG",
-                "relativeImagePath": "./plant_images/Pyramidal_Orchid.JPG"
+                "imageName": "Pyramidal_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Pyramidal_Orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Bartsia",
+                "latinName": "Odontites vernus",
+                "imageName": "Red_Bartsia.JPG",
+                "relativeImagePath": "./plant_images/Red_Bartsia.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Campion",
+                "latinName": "Silene dioica",
+                "imageName": "Red_Campion.JPG",
+                "relativeImagePath": "./plant_images/Red_Campion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Thrift",
+                "latinName": "Armeria maritima",
+                "imageName": "Thrift.JPG",
+                "relativeImagePath": "./plant_images/Thrift.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Traveller's-joy",
+                "latinName": "Clematis vitalba",
+                "imageName": "Traveller_s_joy.JPG",
+                "relativeImagePath": "./plant_images/Traveller_s_joy.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wild Marjoram",
+                "latinName": "Origanum vulgare",
+                "imageName": "Wild_Marjoram.JPG",
+                "relativeImagePath": "./plant_images/Wild_Marjoram.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wild Thyme",
+                "latinName": "Thymus polytrichus",
+                "imageName": "Wild_Thyme.JPG",
+                "relativeImagePath": "./plant_images/Wild_Thyme.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yellow Centaury",
+                "latinName": "Cicendia filiformis",
+                "imageName": "Yellow_Centaury.JPG",
+                "relativeImagePath": "./plant_images/Yellow_Centaury.JPG",
+                "copyrightName": "Tristan Norton"
+            },
+            {
+                "commonName": "Yew",
+                "latinName": "Taxus baccata",
+                "imageName": "Yew.JPG",
+                "relativeImagePath": "./plant_images/Yew.JPG",
+                "copyrightName": "Lucy Hodson"
             }
         ]
     },
@@ -26,22 +204,3804 @@
         "chapterNumber": "2",
         "plants": [
             {
+                "commonName": "Annual Meadow-grass",
+                "latinName": "Poa annua",
+                "imageName": "Annual_Meadow_grass.JPG",
+                "relativeImagePath": "./plant_images/Annual_Meadow_grass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Blackthorn",
+                "latinName": "Prunus spinosa",
+                "imageName": "Blackthorn.JPG",
+                "relativeImagePath": "./plant_images/Blackthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bluebell",
+                "latinName": "Hyacinthoides non-scripta",
+                "imageName": "Bluebell.JPG",
+                "relativeImagePath": "./plant_images/Bluebell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Canadian Fleabane",
+                "latinName": "Erigeron canadensis",
+                "imageName": "Canadian_Fleabane.JPG",
+                "relativeImagePath": "./plant_images/Canadian_Fleabane.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Chickweed",
+                "latinName": "Stellaria media",
+                "imageName": "Common_Chickweed.JPG",
+                "relativeImagePath": "./plant_images/Common_Chickweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Field-speedwell",
+                "latinName": "Veronica persica",
+                "imageName": "Common_Field_speedwell.JPG",
+                "relativeImagePath": "./plant_images/Common_Field_speedwell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Mouse-ear",
+                "latinName": "Cerastium fontanum",
+                "imageName": "Common_Mouse_ear.JPG",
+                "relativeImagePath": "./plant_images/Common_Mouse_ear.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cow Parsley",
+                "latinName": "Anthriscus sylvestris",
+                "imageName": "Cow_Parsley.JPG",
+                "relativeImagePath": "./plant_images/Cow_Parsley.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cowslip",
+                "latinName": "Primula veris",
+                "imageName": "Cowslip.JPG",
+                "relativeImagePath": "./plant_images/Cowslip.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Creeping Buttercup",
+                "latinName": "Ranunculus repens",
+                "imageName": "Creeping_Buttercup.JPG",
+                "relativeImagePath": "./plant_images/Creeping_Buttercup.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Creeping Thistle",
+                "latinName": "Cirsium arvense",
+                "imageName": "Creeping_Thistle.JPG",
+                "relativeImagePath": "./plant_images/Creeping_Thistle.JPG",
+                "copyrightName": ""
+            },
+            {
                 "commonName": "Daisy",
                 "latinName": "Bellis perennis",
-                "imageName":"Daisy.JPG",
-                "relativeImagePath": "./plant_images/Daisy.JPG"
+                "imageName": "Daisy.JPG",
+                "relativeImagePath": "./plant_images/Daisy.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dandelion",
+                "latinName": "Taraxacum officinale agg.",
+                "imageName": "Dandelion.JPG",
+                "relativeImagePath": "./plant_images/Dandelion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Germander Speedwell",
+                "latinName": "Veronica chamaedrys",
+                "imageName": "Germander_Speedwell.JPG",
+                "relativeImagePath": "./plant_images/Germander_Speedwell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Gorse",
+                "latinName": "Ulex europaeus",
+                "imageName": "Gorse.JPG",
+                "relativeImagePath": "./plant_images/Gorse.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Groundsel",
+                "latinName": "Senecio vulgaris",
+                "imageName": "Groundsel.JPG",
+                "relativeImagePath": "./plant_images/Groundsel.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hairy Bittercress",
+                "latinName": "Cardamine hirsuta",
+                "imageName": "Hairy_Bittercress.JPG",
+                "relativeImagePath": "./plant_images/Hairy_Bittercress.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Hawthorn",
+                "latinName": "Crataegus monogyna",
+                "imageName": "Hawthorn.JPG",
+                "relativeImagePath": "./plant_images/Hawthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Herb-Robert",
+                "latinName": "Geranium robertianum",
+                "imageName": "Herb_Robert.JPG",
+                "relativeImagePath": "./plant_images/Herb_Robert.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hogweed",
+                "latinName": "Heracleum sphondylium",
+                "imageName": "Hogweed.JPG",
+                "relativeImagePath": "./plant_images/Hogweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Horseshoe Vetch",
+                "latinName": "Hippocrepis comosa",
+                "imageName": "Horseshoe_Vetch.JPG",
+                "relativeImagePath": "./plant_images/Horseshoe_Vetch.JPG",
+                "copyrightName": ""
             },
             {
                 "commonName": "Ivy-leaved Toadflax",
                 "latinName": "Cymbalaria muralis",
-                "imageName":"Ivy-leaved_Toadflax.JPG",
-                "relativeImagePath": "./plant_images/Ivy-leaved_Toadflax.JPG"
+                "imageName": "Ivy_leaved_Toadflax.JPG",
+                "relativeImagePath": "./plant_images/Ivy_leaved_Toadflax.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Knotgrass",
+                "latinName": "Polygonum aviculare",
+                "imageName": "Knotgrass.JPG",
+                "relativeImagePath": "./plant_images/Knotgrass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "London Plane",
+                "latinName": "Platanus x hispanica",
+                "imageName": "London_Plane.JPG",
+                "relativeImagePath": "./plant_images/London_Plane.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Maidenhair Spleenwort",
+                "latinName": "Asplenium trichomanes",
+                "imageName": "Maidenhair_Spleenwort.JPG",
+                "relativeImagePath": "./plant_images/Maidenhair_Spleenwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Meadow Fescue",
+                "latinName": "Schedonorus pratensis",
+                "imageName": "Meadow_Fescue.JPG",
+                "relativeImagePath": "./plant_images/Meadow_Fescue.JPG",
+                "copyrightName": "Dominic Price"
+            },
+            {
+                "commonName": "Oxford Ragwort",
+                "latinName": "Senecio squalidus",
+                "imageName": "Oxford_Ragwort.JPG",
+                "relativeImagePath": "./plant_images/Oxford_Ragwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Perennial Rye-grass",
+                "latinName": "Lolium perenne",
+                "imageName": "Perennial_Rye_grass.JPG",
+                "relativeImagePath": "./plant_images/Perennial_Rye_grass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Petty Spurge",
+                "latinName": "Euphorbia peplus",
+                "imageName": "Petty_Spurge.JPG",
+                "relativeImagePath": "./plant_images/Petty_Spurge.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Primrose",
+                "latinName": "Primula vulgaris",
+                "imageName": "Primrose.JPG",
+                "relativeImagePath": "./plant_images/Primrose.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Campion",
+                "latinName": "Silene dioica",
+                "imageName": "Red_Campion.JPG",
+                "relativeImagePath": "./plant_images/Red_Campion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Dead-nettle",
+                "latinName": "Lamium purpureum",
+                "imageName": "Red_Dead_nettle.JPG",
+                "relativeImagePath": "./plant_images/Red_Dead_nettle.JPG",
+                "copyrightName": ""
             },
             {
                 "commonName": "Shaggy-soldier",
                 "latinName": "Galinsoga quadriradiata",
-                "imageName":"Shaggy-soldier.JPG",
-                "relativeImagePath": "./plant_images/Shaggy-soldier.JPG"
+                "imageName": "Shaggy_soldier.JPG",
+                "relativeImagePath": "./plant_images/Shaggy_soldier.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Shepherd's-purse",
+                "latinName": "Capsella bursa-pastoris",
+                "imageName": "Shepherd_s_purse.JPG",
+                "relativeImagePath": "./plant_images/Shepherd_s_purse.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wavy Bittercress",
+                "latinName": "Cardamine flexuosa",
+                "imageName": "Wavy_Bittercress.JPG",
+                "relativeImagePath": "./plant_images/Wavy_Bittercress.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "White Dead-nettle",
+                "latinName": "Lamium album",
+                "imageName": "White_Dead_nettle.JPG",
+                "relativeImagePath": "./plant_images/White_Dead_nettle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wood Anemone",
+                "latinName": "Anemone nemorosa",
+                "imageName": "Wood_Anemone.JPG",
+                "relativeImagePath": "./plant_images/Wood_Anemone.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yarrow",
+                "latinName": "Achillea millefolium",
+                "imageName": "Yarrow.JPG",
+                "relativeImagePath": "./plant_images/Yarrow.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "3",
+        "plants": [
+            {
+                "commonName": "Ash",
+                "latinName": "Fraxinus excelsior",
+                "imageName": "Ash.JPG",
+                "relativeImagePath": "./plant_images/Ash.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Beech",
+                "latinName": "Fagus sylvatica",
+                "imageName": "Beech.JPG",
+                "relativeImagePath": "./plant_images/Beech.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Elder",
+                "latinName": "Sambucus nigra",
+                "imageName": "Elder.JPG",
+                "relativeImagePath": "./plant_images/Elder.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Snowdrop",
+                "latinName": "Galanthus nivalis",
+                "imageName": "Snowdrop.JPG",
+                "relativeImagePath": "./plant_images/Snowdrop.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Alder",
+                "latinName": "Alnus glutinosa",
+                "imageName": "Alder.JPG",
+                "relativeImagePath": "./plant_images/Alder.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Goat Willow (buds)",
+                "latinName": "Salix caprea",
+                "imageName": "Goat_Willow_(buds).JPG",
+                "relativeImagePath": "./plant_images/Goat_Willow_(buds).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Goat Willow (catkins)",
+                "latinName": "Salix caprea",
+                "imageName": "Goat_Willow_(catkins).JPG",
+                "relativeImagePath": "./plant_images/Goat_Willow_(catkins).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dogwood",
+                "latinName": "Cornus sanguinea",
+                "imageName": "Dogwood.JPG",
+                "relativeImagePath": "./plant_images/Dogwood.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Crack-willow",
+                "latinName": "Salix fragilis",
+                "imageName": "Crack_willow.JPG",
+                "relativeImagePath": "./plant_images/Crack_willow.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sweet Chestnut",
+                "latinName": "Castanea sativa",
+                "imageName": "Sweet_Chestnut.JPG",
+                "relativeImagePath": "./plant_images/Sweet_Chestnut.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Silver Birch",
+                "latinName": "Betula pendula",
+                "imageName": "Silver_Birch.JPG",
+                "relativeImagePath": "./plant_images/Silver_Birch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Spindle",
+                "latinName": "Euonymus europaeus",
+                "imageName": "Spindle.JPG",
+                "relativeImagePath": "./plant_images/Spindle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Lime",
+                "latinName": "Tilia x europaea",
+                "imageName": "Common_Lime.JPG",
+                "relativeImagePath": "./plant_images/Common_Lime.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wood Bristle-moss",
+                "latinName": "Orthotrichum affine",
+                "imageName": "Wood_Bristle_moss.JPG",
+                "relativeImagePath": "./plant_images/Wood_Bristle_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Forked Veilwort",
+                "latinName": "Metzgeria furcata",
+                "imageName": "Forked_Veilwort.JPG",
+                "relativeImagePath": "./plant_images/Forked_Veilwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cypress-leaved Plait-moss",
+                "latinName": "Hypnum cuppressiforme",
+                "imageName": "Cypress_leaved_Plait_moss.JPG",
+                "relativeImagePath": "./plant_images/Cypress_leaved_Plait_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hazel",
+                "latinName": "Corylus avellana",
+                "imageName": "Hazel.JPG",
+                "relativeImagePath": "./plant_images/Hazel.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Blackthorn",
+                "latinName": "Prunus spinosa",
+                "imageName": "Blackthorn.JPG",
+                "relativeImagePath": "./plant_images/Blackthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lesser Celandine",
+                "latinName": "Ficaria verna",
+                "imageName": "Lesser_Celandine.JPG",
+                "relativeImagePath": "./plant_images/Lesser_Celandine.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Primrose",
+                "latinName": "Primula vulgaris",
+                "imageName": "Primrose.JPG",
+                "relativeImagePath": "./plant_images/Primrose.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Whitlowgrass",
+                "latinName": "Erophila verna",
+                "imageName": "Common_Whitlowgrass.JPG",
+                "relativeImagePath": "./plant_images/Common_Whitlowgrass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rue-leaved Saxifrage",
+                "latinName": "Saxifraga tridactylites",
+                "imageName": "Rue_leaved_Saxifrage.JPG",
+                "relativeImagePath": "./plant_images/Rue_leaved_Saxifrage.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dandelion",
+                "latinName": "Taraxacum officinale agg.",
+                "imageName": "Dandelion.JPG",
+                "relativeImagePath": "./plant_images/Dandelion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Chickweed",
+                "latinName": "Stellaria media",
+                "imageName": "Common_Chickweed.JPG",
+                "relativeImagePath": "./plant_images/Common_Chickweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cuckooflower",
+                "latinName": "Cardamine pratensis",
+                "imageName": "Cuckooflower.JPG",
+                "relativeImagePath": "./plant_images/Cuckooflower.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Early Dog-violet",
+                "latinName": "Viola reichenbachiana",
+                "imageName": "Early_Dog_violet.JPG",
+                "relativeImagePath": "./plant_images/Early_Dog_violet.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Early-purple Orchid",
+                "latinName": "Orchis mascula",
+                "imageName": "Early_purple_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Early_purple_Orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Field Wood-rush",
+                "latinName": "Luzula campestris",
+                "imageName": "Field_Wood_rush.JPG",
+                "relativeImagePath": "./plant_images/Field_Wood_rush.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Pasqueflower",
+                "latinName": "Pulsatilla vulgaris",
+                "imageName": "Pasqueflower.JPG",
+                "relativeImagePath": "./plant_images/Pasqueflower.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hawthorn",
+                "latinName": "Crataegus monogyna",
+                "imageName": "Hawthorn.JPG",
+                "relativeImagePath": "./plant_images/Hawthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hogweed",
+                "latinName": "Heracleum sphondylium",
+                "imageName": "Hogweed.JPG",
+                "relativeImagePath": "./plant_images/Hogweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wild Carrot",
+                "latinName": "Daucus carota",
+                "imageName": "Wild_Carrot.JPG",
+                "relativeImagePath": "./plant_images/Wild_Carrot.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "4",
+        "plants": [
+            {
+                "commonName": "Alternate-leaved Golden-saxifrage",
+                "latinName": "Chrysosplenium alternifolium",
+                "imageName": "Alternate_leaved_Golden_saxifrage.JPG",
+                "relativeImagePath": "./plant_images/Alternate_leaved_Golden_saxifrage.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Arctic Sandwort",
+                "latinName": "Arenaria norvegica ssp. norvegica",
+                "imageName": "Arctic_Sandwort.JPG",
+                "relativeImagePath": "./plant_images/Arctic_Sandwort.JPG",
+                "copyrightName": "Kevin Walker"
+            },
+            {
+                "commonName": "Bird's-eye Primrose",
+                "latinName": "Primula farinosa",
+                "imageName": "Bird_s_eye_Primrose.JPG",
+                "relativeImagePath": "./plant_images/Bird_s_eye_Primrose.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Blue Moor-grass",
+                "latinName": "Sesleria caerulea",
+                "imageName": "Blue_Moor_grass.JPG",
+                "relativeImagePath": "./plant_images/Blue_Moor_grass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Butterbur",
+                "latinName": "Petasites hybridus",
+                "imageName": "Butterbur.JPG",
+                "relativeImagePath": "./plant_images/Butterbur.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Colt's-foot",
+                "latinName": "Tussilago farfara",
+                "imageName": "Colt_s_foot.JPG",
+                "relativeImagePath": "./plant_images/Colt_s_foot.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Comb-moss",
+                "latinName": "Ctenidium molluscum",
+                "imageName": "Comb_moss.JPG",
+                "relativeImagePath": "./plant_images/Comb_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "English Sandwort",
+                "latinName": "Arenaria norvegica ssp. anglica",
+                "imageName": "English_Sandwort.JPG",
+                "relativeImagePath": "./plant_images/English_Sandwort.JPG",
+                "copyrightName": "Kevin Walker"
+            },
+            {
+                "commonName": "Frizzled Crisp-moss",
+                "latinName": "Tortella tortuosa",
+                "imageName": "Frizzled_Crisp_moss.JPG",
+                "relativeImagePath": "./plant_images/Frizzled_Crisp_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Green Spleenwort",
+                "latinName": "Asplenium viride",
+                "imageName": "Green_Spleenwort.JPG",
+                "relativeImagePath": "./plant_images/Green_Spleenwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hare's-tail Cottongrass",
+                "latinName": "Eriophorum vaginatum",
+                "imageName": "Hare_s_tail_Cottongrass.JPG",
+                "relativeImagePath": "./plant_images/Hare_s_tail_Cottongrass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lesser Celandine",
+                "latinName": "Ficaria verna",
+                "imageName": "Lesser_Celandine.JPG",
+                "relativeImagePath": "./plant_images/Lesser_Celandine.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Limestone Fern",
+                "latinName": "Gymnocarpium robertianum",
+                "imageName": "Limestone_Fern.JPG",
+                "relativeImagePath": "./plant_images/Limestone_Fern.JPG",
+                "copyrightName": "Kevin Walker"
+            },
+            {
+                "commonName": "Purple Saxifrage",
+                "latinName": "Saxifraga oppositifolia",
+                "imageName": "Purple_Saxifrage.JPG",
+                "relativeImagePath": "./plant_images/Purple_Saxifrage.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rigid Buckler-fern",
+                "latinName": "Dryopteris submontana",
+                "imageName": "Rigid_Buckler_fern.JPG",
+                "relativeImagePath": "./plant_images/Rigid_Buckler_fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rue-leaved Saxifrage",
+                "latinName": "Saxifraga tridactylites",
+                "imageName": "Rue_leaved_Saxifrage.JPG",
+                "relativeImagePath": "./plant_images/Rue_leaved_Saxifrage.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sycamore",
+                "latinName": "Acer pseudoplatanus",
+                "imageName": "Sycamore.JPG",
+                "relativeImagePath": "./plant_images/Sycamore.JPG",
+                "copyrightName": "Dominic Price"
+            },
+            {
+                "commonName": "Teesdale Violet",
+                "latinName": "Viola rupestris",
+                "imageName": "Teesdale_Violet.JPG",
+                "relativeImagePath": "./plant_images/Teesdale_Violet.JPG",
+                "copyrightName": "Jeremy Roberts"
+            },
+            {
+                "commonName": "Wall-rue",
+                "latinName": "Asplenium ruta-muraria",
+                "imageName": "Wall_rue.JPG",
+                "relativeImagePath": "./plant_images/Wall_rue.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "5",
+        "plants": [
+            {
+                "commonName": "Blackthorn",
+                "latinName": "Prunus spinosa",
+                "imageName": "Blackthorn.JPG",
+                "relativeImagePath": "./plant_images/Blackthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bluebell",
+                "latinName": "Hyacinthoides non-scripta",
+                "imageName": "Bluebell.JPG",
+                "relativeImagePath": "./plant_images/Bluebell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bracken",
+                "latinName": "Pteridium aquilinum",
+                "imageName": "Bracken.JPG",
+                "relativeImagePath": "./plant_images/Bracken.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Common Solomon's-seal",
+                "latinName": "Polygonatum multiflorum",
+                "imageName": "Common_Solomon_s_seal.JPG",
+                "relativeImagePath": "./plant_images/Common_Solomon_s_seal.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Sorrel",
+                "latinName": "Rumex acetosa",
+                "imageName": "Common_Sorrel.JPG",
+                "relativeImagePath": "./plant_images/Common_Sorrel.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Cowslip",
+                "latinName": "Primula veris",
+                "imageName": "Cowslip.JPG",
+                "relativeImagePath": "./plant_images/Cowslip.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dandelion",
+                "latinName": "Taraxacum officinale agg.",
+                "imageName": "Dandelion.JPG",
+                "relativeImagePath": "./plant_images/Dandelion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Early-purple Orchid",
+                "latinName": "Orchis mascula",
+                "imageName": "Early_purple_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Early_purple_Orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Germander Speedwell",
+                "latinName": "Veronica chamaedrys",
+                "imageName": "Germander_Speedwell.JPG",
+                "relativeImagePath": "./plant_images/Germander_Speedwell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Greater Stitchwort",
+                "latinName": "Stellaria holostea",
+                "imageName": "Greater_Stitchwort.JPG",
+                "relativeImagePath": "./plant_images/Greater_Stitchwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hairy Violet",
+                "latinName": "Viola hirta",
+                "imageName": "Hairy_Violet.JPG",
+                "relativeImagePath": "./plant_images/Hairy_Violet.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hawthorn",
+                "latinName": "Crataegus monogyna",
+                "imageName": "Hawthorn.JPG",
+                "relativeImagePath": "./plant_images/Hawthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Herb Paris",
+                "latinName": "Paris quadrifolia",
+                "imageName": "Herb_Paris.JPG",
+                "relativeImagePath": "./plant_images/Herb_Paris.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Horse-chestnut",
+                "latinName": "Aesculus hippocastanum",
+                "imageName": "Horse_chestnut.JPG",
+                "relativeImagePath": "./plant_images/Horse_chestnut.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hybrid Bluebell",
+                "latinName": "Hyacinthoides x massartiana",
+                "imageName": "Hybrid_Bluebell.JPG",
+                "relativeImagePath": "./plant_images/Hybrid_Bluebell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lesser Celandine",
+                "latinName": "Ficaria verna",
+                "imageName": "Lesser_Celandine.JPG",
+                "relativeImagePath": "./plant_images/Lesser_Celandine.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lords-and-ladies",
+                "latinName": "Arum maculatum",
+                "imageName": "Lords_and_ladies.JPG",
+                "relativeImagePath": "./plant_images/Lords_and_ladies.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Primrose",
+                "latinName": "Primula vulgaris",
+                "imageName": "Primrose.JPG",
+                "relativeImagePath": "./plant_images/Primrose.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ramsons",
+                "latinName": "Allium ursinum",
+                "imageName": "Ramsons.JPG",
+                "relativeImagePath": "./plant_images/Ramsons.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sanicle",
+                "latinName": "Sanicula europaeus",
+                "imageName": "Sanicle.JPG",
+                "relativeImagePath": "./plant_images/Sanicle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Spanish Bluebell",
+                "latinName": "Hyacinthoides hispanica",
+                "imageName": "Spanish_Bluebell.JPG",
+                "relativeImagePath": "./plant_images/Spanish_Bluebell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Toothwort",
+                "latinName": "Lathraea squamaria",
+                "imageName": "Toothwort.JPG",
+                "relativeImagePath": "./plant_images/Toothwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wood Anemone",
+                "latinName": "Anemone nemorosa",
+                "imageName": "Wood_Anemone.JPG",
+                "relativeImagePath": "./plant_images/Wood_Anemone.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wood Sorrel",
+                "latinName": "Oxalis acetosella",
+                "imageName": "Wood_Sorrel.JPG",
+                "relativeImagePath": "./plant_images/Wood_Sorrel.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yellow Archangel",
+                "latinName": "Lamiastrium galeobdolon",
+                "imageName": "Yellow_Archangel.JPG",
+                "relativeImagePath": "./plant_images/Yellow_Archangel.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "6",
+        "plants": [
+            {
+                "commonName": "Alexanders",
+                "latinName": "Smyrnium olusatrum",
+                "imageName": "Alexanders.JPG",
+                "relativeImagePath": "./plant_images/Alexanders.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Autumn Squill",
+                "latinName": "Prospero autumnale",
+                "imageName": "Autumn_Squill.JPG",
+                "relativeImagePath": "./plant_images/Autumn_Squill.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bloody Crane's-bill",
+                "latinName": "Geranium sanguineum",
+                "imageName": "Bloody_Crane_s_bill.JPG",
+                "relativeImagePath": "./plant_images/Bloody_Crane_s_bill.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bluebell",
+                "latinName": "Hyacinthoides non-scripta",
+                "imageName": "Bluebell.JPG",
+                "relativeImagePath": "./plant_images/Bluebell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bulbous Buttercup",
+                "latinName": "Ranunculus bulbosus",
+                "imageName": "Bulbous_Buttercup.JPG",
+                "relativeImagePath": "./plant_images/Bulbous_Buttercup.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Burnet Rose",
+                "latinName": "Rosa pimpinellifolia",
+                "imageName": "Burnet_Rose.JPG",
+                "relativeImagePath": "./plant_images/Burnet_Rose.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cock's-foot",
+                "latinName": "Dactylis glomerata",
+                "imageName": "Cock_s_foot.JPG",
+                "relativeImagePath": "./plant_images/Cock_s_foot.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Bent",
+                "latinName": "Agrostis capillaris",
+                "imageName": "Common_Bent.JPG",
+                "relativeImagePath": "./plant_images/Common_Bent.JPG",
+                "copyrightName": "Dominic Price"
+            },
+            {
+                "commonName": "Common Broomrape",
+                "latinName": "Orobanche minor\\\\",
+                "imageName": "Common_Broomrape.JPG",
+                "relativeImagePath": "./plant_images/Common_Broomrape.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Sorrel",
+                "latinName": "Rumex acetosa",
+                "imageName": "Common_Sorrel.JPG",
+                "relativeImagePath": "./plant_images/Common_Sorrel.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Common Stork's-bill",
+                "latinName": "Erodium cicutarium",
+                "imageName": "Common_Stork_s_bill.JPG",
+                "relativeImagePath": "./plant_images/Common_Stork_s_bill.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cow Parsley",
+                "latinName": "Anthriscus sylvestris",
+                "imageName": "Cow_Parsley.JPG",
+                "relativeImagePath": "./plant_images/Cow_Parsley.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Early Spider-orchid",
+                "latinName": "Ophrys sphegodes",
+                "imageName": "Early_Spider_orchid.JPG",
+                "relativeImagePath": "./plant_images/Early_Spider_orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "English Stonecrop",
+                "latinName": "Sedum anglicum",
+                "imageName": "English_Stonecrop.JPG",
+                "relativeImagePath": "./plant_images/English_Stonecrop.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Foxglove",
+                "latinName": "Digitalis purpurea",
+                "imageName": "Foxglove.JPG",
+                "relativeImagePath": "./plant_images/Foxglove.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Fringed Rupturewort",
+                "latinName": "Herniaria ciliolata",
+                "imageName": "Fringed_Rupturewort.JPG",
+                "relativeImagePath": "./plant_images/Fringed_Rupturewort.JPG",
+                "copyrightName": "Sharon Pilkington"
+            },
+            {
+                "commonName": "Gorse",
+                "latinName": "Ulex europaeus",
+                "imageName": "Gorse.JPG",
+                "relativeImagePath": "./plant_images/Gorse.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hairy Greenweed",
+                "latinName": "Genista pilosa",
+                "imageName": "Hairy_Greenweed.JPG",
+                "relativeImagePath": "./plant_images/Hairy_Greenweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hawthorn",
+                "latinName": "Crataegus monogyna",
+                "imageName": "Hawthorn.JPG",
+                "relativeImagePath": "./plant_images/Hawthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Heath Spotted-orchid",
+                "latinName": "Dactylorhiza maculata",
+                "imageName": "Heath_Spotted_orchid.JPG",
+                "relativeImagePath": "./plant_images/Heath_Spotted_orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ivy Broomrape",
+                "latinName": "Orobanche hederae",
+                "imageName": "Ivy_Broomrape.JPG",
+                "relativeImagePath": "./plant_images/Ivy_Broomrape.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Kidney Vetch",
+                "latinName": "Anthyllis vulneraria",
+                "imageName": "Kidney_Vetch.JPG",
+                "relativeImagePath": "./plant_images/Kidney_Vetch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Knapweed Broomrape",
+                "latinName": "Orobanche elatior",
+                "imageName": "Knapweed_Broomrape.JPG",
+                "relativeImagePath": "./plant_images/Knapweed_Broomrape.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lady-fern",
+                "latinName": "Athyrium filix-femina",
+                "imageName": "Lady_fern.JPG",
+                "relativeImagePath": "./plant_images/Lady_fern.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Lords-and-ladies",
+                "latinName": "Arum maculatum",
+                "imageName": "Lords_and_ladies.JPG",
+                "relativeImagePath": "./plant_images/Lords_and_ladies.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Male-fern",
+                "latinName": "Dryopteris filix-mas",
+                "imageName": "Male_fern.JPG",
+                "relativeImagePath": "./plant_images/Male_fern.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Navelwort",
+                "latinName": "Umbilicus rupestris",
+                "imageName": "Navelwort.JPG",
+                "relativeImagePath": "./plant_images/Navelwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ramsons",
+                "latinName": "Allium ursinum",
+                "imageName": "Ramsons.JPG",
+                "relativeImagePath": "./plant_images/Ramsons.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Campion",
+                "latinName": "Silene dioica",
+                "imageName": "Red_Campion.JPG",
+                "relativeImagePath": "./plant_images/Red_Campion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rock-samphire",
+                "latinName": "Crithmum maritimum",
+                "imageName": "Rock_samphire.JPG",
+                "relativeImagePath": "./plant_images/Rock_samphire.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Campion",
+                "latinName": "Silene uniflora",
+                "imageName": "Sea_Campion.JPG",
+                "relativeImagePath": "./plant_images/Sea_Campion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Plantain",
+                "latinName": "Plantago maritima",
+                "imageName": "Sea_Plantain.JPG",
+                "relativeImagePath": "./plant_images/Sea_Plantain.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Spleenwort",
+                "latinName": "Asplenium marinum",
+                "imageName": "Sea_Spleenwort.JPG",
+                "relativeImagePath": "./plant_images/Sea_Spleenwort.JPG",
+                "copyrightName": "Tristan Norton"
+            },
+            {
+                "commonName": "Sea Spurge",
+                "latinName": "Euphorbia paralias",
+                "imageName": "Sea_Spurge.JPG",
+                "relativeImagePath": "./plant_images/Sea_Spurge.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sheep's-bit",
+                "latinName": "Jasione montana",
+                "imageName": "Sheep_s_bit.JPG",
+                "relativeImagePath": "./plant_images/Sheep_s_bit.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Spotted Cat's-ear",
+                "latinName": "Hypochaeris maculata",
+                "imageName": "Spotted_Cat_s_ear.JPG",
+                "relativeImagePath": "./plant_images/Spotted_Cat_s_ear.JPG",
+                "copyrightName": "Sharon Pilkington"
+            },
+            {
+                "commonName": "Spring Squill",
+                "latinName": "Scilla verna",
+                "imageName": "Spring_Squill.JPG",
+                "relativeImagePath": "./plant_images/Spring_Squill.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Thrift",
+                "latinName": "Armeria maritima",
+                "imageName": "Thrift.JPG",
+                "relativeImagePath": "./plant_images/Thrift.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Thyme Broomrape",
+                "latinName": "Orobanche alba",
+                "imageName": "Thyme_Broomrape.JPG",
+                "relativeImagePath": "./plant_images/Thyme_Broomrape.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Tree-mallow",
+                "latinName": "Malva arborea",
+                "imageName": "Tree_mallow.JPG",
+                "relativeImagePath": "./plant_images/Tree_mallow.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wild Thyme",
+                "latinName": "Thymus polytrichus",
+                "imageName": "Wild_Thyme.JPG",
+                "relativeImagePath": "./plant_images/Wild_Thyme.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yarrow Broomrape",
+                "latinName": "Orobanche purpurea",
+                "imageName": "Yarrow_Broomrape.JPG",
+                "relativeImagePath": "./plant_images/Yarrow_Broomrape.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yorkshire-fog",
+                "latinName": "Holcus lanatus",
+                "imageName": "Yorkshire_fog.JPG",
+                "relativeImagePath": "./plant_images/Yorkshire_fog.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "7",
+        "plants": [
+            {
+                "commonName": "Autumn Gentian",
+                "latinName": "Gentianella amarella",
+                "imageName": "Autumn_Gentian.JPG",
+                "relativeImagePath": "./plant_images/Autumn_Gentian.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bastard-toadflax",
+                "latinName": "Thesium humifusum",
+                "imageName": "Bastard_toadflax.JPG",
+                "relativeImagePath": "./plant_images/Bastard_toadflax.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Burnt Orchid",
+                "latinName": "Neotinea ustulata",
+                "imageName": "Burnt_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Burnt_Orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Chalk Milkwort",
+                "latinName": "Polygala calcarea",
+                "imageName": "Chalk_Milkwort.JPG",
+                "relativeImagePath": "./plant_images/Chalk_Milkwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Clustered Bellflower",
+                "latinName": "Campanula glomerata",
+                "imageName": "Clustered_Bellflower.JPG",
+                "relativeImagePath": "./plant_images/Clustered_Bellflower.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Bird's-foot-trefoil",
+                "latinName": "Lotus corniculatus",
+                "imageName": "Common_Bird_s_foot_trefoil.JPG",
+                "relativeImagePath": "./plant_images/Common_Bird_s_foot_trefoil.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Rock-rose",
+                "latinName": "Helianthemum nummularium",
+                "imageName": "Common_Rock_rose.JPG",
+                "relativeImagePath": "./plant_images/Common_Rock_rose.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cow Parsley",
+                "latinName": "Anthriscus sylvestris",
+                "imageName": "Cow_Parsley.JPG",
+                "relativeImagePath": "./plant_images/Cow_Parsley.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dog-rose",
+                "latinName": "Rosa canina",
+                "imageName": "Dog_rose.JPG",
+                "relativeImagePath": "./plant_images/Dog_rose.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dogwood",
+                "latinName": "Cornus sanguinea",
+                "imageName": "Dogwood.JPG",
+                "relativeImagePath": "./plant_images/Dogwood.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dropwort",
+                "latinName": "Filipendula vulgaris",
+                "imageName": "Dropwort.JPG",
+                "relativeImagePath": "./plant_images/Dropwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dwarf Thistle",
+                "latinName": "Cirsium acaule",
+                "imageName": "Dwarf_Thistle.JPG",
+                "relativeImagePath": "./plant_images/Dwarf_Thistle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Elder",
+                "latinName": "Sambucus nigra",
+                "imageName": "Elder.JPG",
+                "relativeImagePath": "./plant_images/Elder.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Field Fleawort",
+                "latinName": "Tephroseris integrifolia ssp. integrifolia",
+                "imageName": "Field_Fleawort.JPG",
+                "relativeImagePath": "./plant_images/Field_Fleawort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Fine-leaved Sandwort",
+                "latinName": "Sabulina tenuifolia",
+                "imageName": "Fine_leaved_Sandwort.JPG",
+                "relativeImagePath": "./plant_images/Fine_leaved_Sandwort.JPG",
+                "copyrightName": "Sharon Pilkington"
+            },
+            {
+                "commonName": "Guelder-rose",
+                "latinName": "Viburnum opulus",
+                "imageName": "Guelder_rose.JPG",
+                "relativeImagePath": "./plant_images/Guelder_rose.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Horseshoe Vetch",
+                "latinName": "Hippocrepis comosa",
+                "imageName": "Horseshoe_Vetch.JPG",
+                "relativeImagePath": "./plant_images/Horseshoe_Vetch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Meadow Fescue",
+                "latinName": "Schedonorus pratensis",
+                "imageName": "Meadow_Fescue.JPG",
+                "relativeImagePath": "./plant_images/Meadow_Fescue.JPG",
+                "copyrightName": "Dominic Price"
+            },
+            {
+                "commonName": "Purple Milk-vetch",
+                "latinName": "Astragalus danicus",
+                "imageName": "Purple_Milk_vetch.JPG",
+                "relativeImagePath": "./plant_images/Purple_Milk_vetch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Pyramidal Orchid",
+                "latinName": "Anacamptis pyramidalis",
+                "imageName": "Pyramidal_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Pyramidal_Orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Quaking Grass",
+                "latinName": "Briza media",
+                "imageName": "Quaking_Grass.JPG",
+                "relativeImagePath": "./plant_images/Quaking_Grass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Clover",
+                "latinName": "Trifolium pratense",
+                "imageName": "Red_Clover.JPG",
+                "relativeImagePath": "./plant_images/Red_Clover.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rough Hawkbit",
+                "latinName": "Leontodon hispidus",
+                "imageName": "Rough_Hawkbit.JPG",
+                "relativeImagePath": "./plant_images/Rough_Hawkbit.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Round-headed Rampion",
+                "latinName": "Phyteuma orbiculare",
+                "imageName": "Round_headed_Rampion.JPG",
+                "relativeImagePath": "./plant_images/Round_headed_Rampion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Salad Burnet",
+                "latinName": "Poterium sanguisorba",
+                "imageName": "Salad_Burnet.JPG",
+                "relativeImagePath": "./plant_images/Salad_Burnet.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Squinancywort",
+                "latinName": "Asperula cynanchica",
+                "imageName": "Squinancywort.JPG",
+                "relativeImagePath": "./plant_images/Squinancywort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Thyme-leaved Sandwort",
+                "latinName": "Arenaria serpyllifolia",
+                "imageName": "Thyme_leaved_Sandwort.JPG",
+                "relativeImagePath": "./plant_images/Thyme_leaved_Sandwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Upright Brome",
+                "latinName": "Bromopsis erecta",
+                "imageName": "Upright_Brome.JPG",
+                "relativeImagePath": "./plant_images/Upright_Brome.JPG",
+                "copyrightName": "Dominic Price"
+            },
+            {
+                "commonName": "Wayfaring-tree",
+                "latinName": "Viburnum lantana",
+                "imageName": "Wayfaring_tree.JPG",
+                "relativeImagePath": "./plant_images/Wayfaring_tree.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wild Marjoram",
+                "latinName": "Origanum vulgare",
+                "imageName": "Wild_Marjoram.JPG",
+                "relativeImagePath": "./plant_images/Wild_Marjoram.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wild Thyme",
+                "latinName": "Thymus polytrichus",
+                "imageName": "Wild_Thyme.JPG",
+                "relativeImagePath": "./plant_images/Wild_Thyme.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "8",
+        "plants": [
+            {
+                "commonName": "Alder",
+                "latinName": "Alnus glutinosa",
+                "imageName": "Alder.JPG",
+                "relativeImagePath": "./plant_images/Alder.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Alpine Saw-wort",
+                "latinName": "Saussurea alpina",
+                "imageName": "Alpine_Saw_wort.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Saw_wort.JPG",
+                "copyrightName": "Lee Schofield"
+            },
+            {
+                "commonName": "Ash",
+                "latinName": "Fraxinus excelsior",
+                "imageName": "Ash.JPG",
+                "relativeImagePath": "./plant_images/Ash.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Bird Cherry",
+                "latinName": "Prunus padus",
+                "imageName": "Bird_Cherry.JPG",
+                "relativeImagePath": "./plant_images/Bird_Cherry.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bitter-vetch",
+                "latinName": "Lathyrus linifolius",
+                "imageName": "Bitter_vetch.JPG",
+                "relativeImagePath": "./plant_images/Bitter_vetch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Bistort",
+                "latinName": "Bistorta officinalis",
+                "imageName": "Common_Bistort.JPG",
+                "relativeImagePath": "./plant_images/Common_Bistort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Butterwort",
+                "latinName": "Pinguicula vulgaris",
+                "imageName": "Common_Butterwort.JPG",
+                "relativeImagePath": "./plant_images/Common_Butterwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Devil's-bit Scabious",
+                "latinName": "Succisa pratensis",
+                "imageName": "Devil_s_bit_Scabious.JPG",
+                "relativeImagePath": "./plant_images/Devil_s_bit_Scabious.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Downy Birch",
+                "latinName": "Betula pubescens",
+                "imageName": "Downy_Birch.JPG",
+                "relativeImagePath": "./plant_images/Downy_Birch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Downy Willow",
+                "latinName": "Salix lapponum",
+                "imageName": "Downy_Willow.JPG",
+                "relativeImagePath": "./plant_images/Downy_Willow.JPG",
+                "copyrightName": "Sarah H Watts"
+            },
+            {
+                "commonName": "Globeflower",
+                "latinName": "Trollius europaeus",
+                "imageName": "Globeflower.JPG",
+                "relativeImagePath": "./plant_images/Globeflower.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Goat's-beard",
+                "latinName": "Tragopogon pratensis",
+                "imageName": "Goat_s_beard.JPG",
+                "relativeImagePath": "./plant_images/Goat_s_beard.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Great Burnet",
+                "latinName": "Sanguisorba officinalis",
+                "imageName": "Great_Burnet.JPG",
+                "relativeImagePath": "./plant_images/Great_Burnet.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hemlock Water-dropwort",
+                "latinName": "Oenanthe crocata",
+                "imageName": "Hemlock_Water_dropwort.JPG",
+                "relativeImagePath": "./plant_images/Hemlock_Water_dropwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Meadow Buttercup",
+                "latinName": "Ranunculus acris",
+                "imageName": "Meadow_Buttercup.JPG",
+                "relativeImagePath": "./plant_images/Meadow_Buttercup.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Meadowsweet",
+                "latinName": "Filipendula ulmaria",
+                "imageName": "Meadowsweet.JPG",
+                "relativeImagePath": "./plant_images/Meadowsweet.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Melancholy Thistle",
+                "latinName": "Cirsium heterophyllum",
+                "imageName": "Melancholy_Thistle.JPG",
+                "relativeImagePath": "./plant_images/Melancholy_Thistle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Petty Whin",
+                "latinName": "Genista anglica",
+                "imageName": "Petty_Whin.JPG",
+                "relativeImagePath": "./plant_images/Petty_Whin.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Pignut",
+                "latinName": "Conopodium majus",
+                "imageName": "Pignut.JPG",
+                "relativeImagePath": "./plant_images/Pignut.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ragged-robin",
+                "latinName": "Lychnis flos-cuculi",
+                "imageName": "Ragged_robin.JPG",
+                "relativeImagePath": "./plant_images/Ragged_robin.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Clover",
+                "latinName": "Trifolium pratense",
+                "imageName": "Red_Clover.JPG",
+                "relativeImagePath": "./plant_images/Red_Clover.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Reed Canary-grass",
+                "latinName": "Phalaris arundinacea",
+                "imageName": "Reed_Canary_grass.JPG",
+                "relativeImagePath": "./plant_images/Reed_Canary_grass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Roseroot",
+                "latinName": "Rhodiola rosea",
+                "imageName": "Roseroot.JPG",
+                "relativeImagePath": "./plant_images/Roseroot.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rowan",
+                "latinName": "Sorbus aucuparia",
+                "imageName": "Rowan.JPG",
+                "relativeImagePath": "./plant_images/Rowan.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Self-heal",
+                "latinName": "Prunella vulgaris",
+                "imageName": "Self_heal.JPG",
+                "relativeImagePath": "./plant_images/Self_heal.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Stream Water-crowfoot",
+                "latinName": "Ranunculus pencillatus",
+                "imageName": "Stream_Water_crowfoot.JPG",
+                "relativeImagePath": "./plant_images/Stream_Water_crowfoot.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Tea-leaved Willow",
+                "latinName": "Salix phylicifolia",
+                "imageName": "Tea_leaved_Willow.JPG",
+                "relativeImagePath": "./plant_images/Tea_leaved_Willow.JPG",
+                "copyrightName": "Sarah H Watts"
+            },
+            {
+                "commonName": "Tufted Forget-me-not",
+                "latinName": "Myosotis laxa",
+                "imageName": "Tufted_Forget_me_not.JPG",
+                "relativeImagePath": "./plant_images/Tufted_Forget_me_not.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Water Avens",
+                "latinName": "Geum rivale",
+                "imageName": "Water_Avens.JPG",
+                "relativeImagePath": "./plant_images/Water_Avens.JPG",
+                "copyrightName": "Tristan Norton"
+            },
+            {
+                "commonName": "Water Forget-me-not",
+                "latinName": "Myosotis scorpioides",
+                "imageName": "Water_Forget_me_not.JPG",
+                "relativeImagePath": "./plant_images/Water_Forget_me_not.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wood Crane's-bill",
+                "latinName": "Geranium sylvaticum",
+                "imageName": "Wood_Crane_s_bill.JPG",
+                "relativeImagePath": "./plant_images/Wood_Crane_s_bill.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wych Elm",
+                "latinName": "Ulmus glabra",
+                "imageName": "Wych_Elm.JPG",
+                "relativeImagePath": "./plant_images/Wych_Elm.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "9",
+        "plants": [
+            {
+                "commonName": "Angular Solomon's-seal",
+                "latinName": "Polygonatum odoratum",
+                "imageName": "Angular_Solomon_s_seal.JPG",
+                "relativeImagePath": "./plant_images/Angular_Solomon_s_seal.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ash",
+                "latinName": "Fraxinus excelsior",
+                "imageName": "Ash.JPG",
+                "relativeImagePath": "./plant_images/Ash.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Beech Fern",
+                "latinName": "Phegopteris connectilis",
+                "imageName": "Beech_Fern.JPG",
+                "relativeImagePath": "./plant_images/Beech_Fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bracken",
+                "latinName": "Pteridium aquilinum",
+                "imageName": "Bracken.JPG",
+                "relativeImagePath": "./plant_images/Bracken.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Carline Thistle",
+                "latinName": "Carlina vulgaris",
+                "imageName": "Carline_Thistle.JPG",
+                "relativeImagePath": "./plant_images/Carline_Thistle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Solomon's-seal",
+                "latinName": "Polygonatum multiflorum",
+                "imageName": "Common_Solomon_s_seal.JPG",
+                "relativeImagePath": "./plant_images/Common_Solomon_s_seal.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dark-red Helleborine",
+                "latinName": "Epipactis atrorubens",
+                "imageName": "Dark_red_Helleborine.JPG",
+                "relativeImagePath": "./plant_images/Dark_red_Helleborine.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Early-purple Orchid",
+                "latinName": "Orchis mascula",
+                "imageName": "Early_purple_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Early_purple_Orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Frizzled Crisp-moss",
+                "latinName": "Tortella tortuosa",
+                "imageName": "Frizzled_Crisp_moss.JPG",
+                "relativeImagePath": "./plant_images/Frizzled_Crisp_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Frog Orchid",
+                "latinName": "Dactylorhiza viridis",
+                "imageName": "Frog_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Frog_Orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Great Mullein",
+                "latinName": "Verbascum thapsus",
+                "imageName": "Great_Mullein.JPG",
+                "relativeImagePath": "./plant_images/Great_Mullein.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hart's-tongue",
+                "latinName": "Asplenium scolopendrium",
+                "imageName": "Hart_s_tongue.JPG",
+                "relativeImagePath": "./plant_images/Hart_s_tongue.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hazel",
+                "latinName": "Corylus avellana",
+                "imageName": "Hazel.JPG",
+                "relativeImagePath": "./plant_images/Hazel.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Herb-Robert",
+                "latinName": "Geranium robertianum",
+                "imageName": "Herb_Robert.JPG",
+                "relativeImagePath": "./plant_images/Herb_Robert.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Honeysuckle",
+                "latinName": "Lonicera periclymenum",
+                "imageName": "Honeysuckle.JPG",
+                "relativeImagePath": "./plant_images/Honeysuckle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Juniper",
+                "latinName": "Juniperus communis",
+                "imageName": "Juniper.JPG",
+                "relativeImagePath": "./plant_images/Juniper.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Limestone Bedstraw",
+                "latinName": "Galium sterneri",
+                "imageName": "Limestone_Bedstraw.JPG",
+                "relativeImagePath": "./plant_images/Limestone_Bedstraw.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Maidenhair Spleenwort",
+                "latinName": "Asplenium trichomanes",
+                "imageName": "Maidenhair_Spleenwort.JPG",
+                "relativeImagePath": "./plant_images/Maidenhair_Spleenwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Moonwort",
+                "latinName": "Botrychium lunaria",
+                "imageName": "Moonwort.JPG",
+                "relativeImagePath": "./plant_images/Moonwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Mountain Avens",
+                "latinName": "Dryas octopetala",
+                "imageName": "Mountain_Avens.JPG",
+                "relativeImagePath": "./plant_images/Mountain_Avens.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rigid Buckler-fern",
+                "latinName": "Dryopteris submontana",
+                "imageName": "Rigid_Buckler_fern.JPG",
+                "relativeImagePath": "./plant_images/Rigid_Buckler_fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rock Pocket-moss",
+                "latinName": "Fissidens dubius",
+                "imageName": "Rock_Pocket_moss.JPG",
+                "relativeImagePath": "./plant_images/Rock_Pocket_moss.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Rough Hawkbit",
+                "latinName": "Leontodon hispidus",
+                "imageName": "Rough_Hawkbit.JPG",
+                "relativeImagePath": "./plant_images/Rough_Hawkbit.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Spring Gentian",
+                "latinName": "Gentiana verna",
+                "imageName": "Spring_Gentian.JPG",
+                "relativeImagePath": "./plant_images/Spring_Gentian.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sycamore",
+                "latinName": "Acer pseudoplatanus",
+                "imageName": "Sycamore.JPG",
+                "relativeImagePath": "./plant_images/Sycamore.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Wall Lettuce",
+                "latinName": "Mycelis muralis",
+                "imageName": "Wall_Lettuce.JPG",
+                "relativeImagePath": "./plant_images/Wall_Lettuce.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wall-rue",
+                "latinName": "Asplenium ruta-muraria",
+                "imageName": "Wall_rue.JPG",
+                "relativeImagePath": "./plant_images/Wall_rue.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wild Thyme",
+                "latinName": "Thymus polytrichus",
+                "imageName": "Wild_Thyme.JPG",
+                "relativeImagePath": "./plant_images/Wild_Thyme.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wood Sage",
+                "latinName": "Teucrium scorodonia",
+                "imageName": "Wood_Sage.JPG",
+                "relativeImagePath": "./plant_images/Wood_Sage.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yew",
+                "latinName": "Taxus baccata",
+                "imageName": "Yew.JPG",
+                "relativeImagePath": "./plant_images/Yew.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "10",
+        "plants": [
+            {
+                "commonName": "Arctic Sandwort",
+                "latinName": "Arenaria norvegica ssp. norvegica",
+                "imageName": "Arctic_Sandwort.JPG",
+                "relativeImagePath": "./plant_images/Arctic_Sandwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Autumn Gentian",
+                "latinName": "Gentianella amarella",
+                "imageName": "Autumn_Gentian.JPG",
+                "relativeImagePath": "./plant_images/Autumn_Gentian.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bog Aspodel",
+                "latinName": "Narthecium ossifragum",
+                "imageName": "Bog_Aspodel.JPG",
+                "relativeImagePath": "./plant_images/Bog_Aspodel.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bracken",
+                "latinName": "Pteridium aquilinum",
+                "imageName": "Bracken.JPG",
+                "relativeImagePath": "./plant_images/Bracken.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Common Bird's-foot-trefoil",
+                "latinName": "Lotus corniculatus",
+                "imageName": "Common_Bird_s_foot_trefoil.JPG",
+                "relativeImagePath": "./plant_images/Common_Bird_s_foot_trefoil.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Butterwort",
+                "latinName": "Pinguicula vulgaris",
+                "imageName": "Common_Butterwort.JPG",
+                "relativeImagePath": "./plant_images/Common_Butterwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Cottongrass",
+                "latinName": "Eriophorum angustifolium",
+                "imageName": "Common_Cottongrass.JPG",
+                "relativeImagePath": "./plant_images/Common_Cottongrass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Sorrel",
+                "latinName": "Rumex acetosa",
+                "imageName": "Common_Sorrel.JPG",
+                "relativeImagePath": "./plant_images/Common_Sorrel.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Curled Dock",
+                "latinName": "Rumex crispus",
+                "imageName": "Curled_Dock.JPG",
+                "relativeImagePath": "./plant_images/Curled_Dock.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Devil's-bit Scabious",
+                "latinName": "Succisa pratensis",
+                "imageName": "Devil_s_bit_Scabious.JPG",
+                "relativeImagePath": "./plant_images/Devil_s_bit_Scabious.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Edmonston's Chickweed",
+                "latinName": "Cerastium nigrescens",
+                "imageName": "Edmonston_s_Chickweed.JPG",
+                "relativeImagePath": "./plant_images/Edmonston_s_Chickweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Eyebright",
+                "latinName": "Euphrasia officinalis agg.",
+                "imageName": "Eyebright.JPG",
+                "relativeImagePath": "./plant_images/Eyebright.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Fairy Flax",
+                "latinName": "Linum catharticum",
+                "imageName": "Fairy_Flax.JPG",
+                "relativeImagePath": "./plant_images/Fairy_Flax.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Frog Orchid",
+                "latinName": "Dactylorhiza viridis",
+                "imageName": "Frog_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Frog_Orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Heath Bedstraw",
+                "latinName": "Galium saxatile",
+                "imageName": "Heath_Bedstraw.JPG",
+                "relativeImagePath": "./plant_images/Heath_Bedstraw.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Heath Spotted-orchid",
+                "latinName": "Dactylorhiza maculata",
+                "imageName": "Heath_Spotted_orchid.JPG",
+                "relativeImagePath": "./plant_images/Heath_Spotted_orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hybrid orchid (Heath Spotted x Northern Marsh)",
+                "latinName": "Dactylorhiza x formosa",
+                "imageName": "Hybrid_orchid_(Heath_Spotted_x_Northern_Marsh).JPG",
+                "relativeImagePath": "./plant_images/Hybrid_orchid_(Heath_Spotted_x_Northern_Marsh).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hybrid orchid (Heath Spotted x Frog)",
+                "latinName": "Dactylorhiza x conigera",
+                "imageName": "Hybrid_orchid_(Heath_Spotted_x_Frog).JPG",
+                "relativeImagePath": "./plant_images/Hybrid_orchid_(Heath_Spotted_x_Frog).JPG",
+                "copyrightName": "Jon Dunn @dunnjons"
+            },
+            {
+                "commonName": "Kidney Vetch",
+                "latinName": "Anthyllis vulneraria",
+                "imageName": "Kidney_Vetch.JPG",
+                "relativeImagePath": "./plant_images/Kidney_Vetch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lousewort",
+                "latinName": "Pedicularis sylvatica",
+                "imageName": "Lousewort.JPG",
+                "relativeImagePath": "./plant_images/Lousewort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Meadow Buttercup",
+                "latinName": "Ranunculus acris",
+                "imageName": "Meadow_Buttercup.JPG",
+                "relativeImagePath": "./plant_images/Meadow_Buttercup.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Moonwort",
+                "latinName": "Botrychium lunaria",
+                "imageName": "Moonwort.JPG",
+                "relativeImagePath": "./plant_images/Moonwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Northern Marsh-orchid",
+                "latinName": "Dactylorhiza purpurella",
+                "imageName": "Northern_Marsh_orchid.JPG",
+                "relativeImagePath": "./plant_images/Northern_Marsh_orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Northern Rock-cress",
+                "latinName": "Arabis petraea",
+                "imageName": "Northern_Rock_cress.JPG",
+                "relativeImagePath": "./plant_images/Northern_Rock_cress.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Oysterplant",
+                "latinName": "Mertensia maritima",
+                "imageName": "Oysterplant.JPG",
+                "relativeImagePath": "./plant_images/Oysterplant.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Primrose",
+                "latinName": "Primula vulgaris",
+                "imageName": "Primrose.JPG",
+                "relativeImagePath": "./plant_images/Primrose.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ragged-robin",
+                "latinName": "Lychnis flos-cuculi",
+                "imageName": "Ragged_robin.JPG",
+                "relativeImagePath": "./plant_images/Ragged_robin.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Clover",
+                "latinName": "Trifolium pratense",
+                "imageName": "Red_Clover.JPG",
+                "relativeImagePath": "./plant_images/Red_Clover.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Scots Lovage",
+                "latinName": "Ligusticum scoticum",
+                "imageName": "Scots_Lovage.JPG",
+                "relativeImagePath": "./plant_images/Scots_Lovage.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Campion",
+                "latinName": "Silene uniflora",
+                "imageName": "Sea_Campion.JPG",
+                "relativeImagePath": "./plant_images/Sea_Campion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Mayweed",
+                "latinName": "Tripleurospermum maritimum",
+                "imageName": "Sea_Mayweed.JPG",
+                "relativeImagePath": "./plant_images/Sea_Mayweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Plantain",
+                "latinName": "Plantago maritima",
+                "imageName": "Sea_Plantain.JPG",
+                "relativeImagePath": "./plant_images/Sea_Plantain.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea-milkwort",
+                "latinName": "Lysimachia maritima",
+                "imageName": "Sea_milkwort.JPG",
+                "relativeImagePath": "./plant_images/Sea_milkwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Self-heal",
+                "latinName": "Prunella vulgaris",
+                "imageName": "Self_heal.JPG",
+                "relativeImagePath": "./plant_images/Self_heal.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Silverweed",
+                "latinName": "Potentilla anserina",
+                "imageName": "Silverweed.JPG",
+                "relativeImagePath": "./plant_images/Silverweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Slender St John's-wort",
+                "latinName": "Hypericum pulchrum",
+                "imageName": "Slender_St_John_s_wort.JPG",
+                "relativeImagePath": "./plant_images/Slender_St_John_s_wort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Small Adder's-tongue",
+                "latinName": "Ophioglossum azoricum",
+                "imageName": "Small_Adder_s_tongue.JPG",
+                "relativeImagePath": "./plant_images/Small_Adder_s_tongue.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Spring Squill",
+                "latinName": "Scilla verna",
+                "imageName": "Spring_Squill.JPG",
+                "relativeImagePath": "./plant_images/Spring_Squill.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Star Sedge",
+                "latinName": "Carex echinata",
+                "imageName": "Star_Sedge.JPG",
+                "relativeImagePath": "./plant_images/Star_Sedge.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Thrift",
+                "latinName": "Armeria maritima",
+                "imageName": "Thrift.JPG",
+                "relativeImagePath": "./plant_images/Thrift.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Tormentil",
+                "latinName": "Potentilla erecta",
+                "imageName": "Tormentil.JPG",
+                "relativeImagePath": "./plant_images/Tormentil.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wild Thyme",
+                "latinName": "Thymus polytrichus",
+                "imageName": "Wild_Thyme.JPG",
+                "relativeImagePath": "./plant_images/Wild_Thyme.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yellow Iris",
+                "latinName": "Iris pseudacorus",
+                "imageName": "Yellow_Iris.JPG",
+                "relativeImagePath": "./plant_images/Yellow_Iris.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "11",
+        "plants": [
+            {
+                "commonName": "Alder",
+                "latinName": "Alnus glutinosa",
+                "imageName": "Alder.JPG",
+                "relativeImagePath": "./plant_images/Alder.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Aspen",
+                "latinName": "Populus tremula",
+                "imageName": "Aspen.JPG",
+                "relativeImagePath": "./plant_images/Aspen.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Big Shaggy-moss",
+                "latinName": "Rhytidiadelphus triquetrus",
+                "imageName": "Big_Shaggy_moss.JPG",
+                "relativeImagePath": "./plant_images/Big_Shaggy_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bilberry (Blaeberry)",
+                "latinName": "Vaccinium myrtillus",
+                "imageName": "Bilberry_(Blaeberry).JPG",
+                "relativeImagePath": "./plant_images/Bilberry_(Blaeberry).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bird Cherry",
+                "latinName": "Prunus padus",
+                "imageName": "Bird_Cherry.JPG",
+                "relativeImagePath": "./plant_images/Bird_Cherry.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Bitter-vetch",
+                "latinName": "Lathyrus linifolius",
+                "imageName": "Bitter_vetch.JPG",
+                "relativeImagePath": "./plant_images/Bitter_vetch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bracken",
+                "latinName": "Pteridium aquilinum",
+                "imageName": "Bracken.JPG",
+                "relativeImagePath": "./plant_images/Bracken.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Common Cow-wheat",
+                "latinName": "Melampyrum pratense",
+                "imageName": "Common_Cow_wheat.JPG",
+                "relativeImagePath": "./plant_images/Common_Cow_wheat.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Creeping Lady's-tresses",
+                "latinName": "Goodyera repens",
+                "imageName": "Creeping_Lady_s_tresses.JPG",
+                "relativeImagePath": "./plant_images/Creeping_Lady_s_tresses.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Downy Birch",
+                "latinName": "Betula pubescens",
+                "imageName": "Downy_Birch.JPG",
+                "relativeImagePath": "./plant_images/Downy_Birch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Foxglove",
+                "latinName": "Digitalis purpurea",
+                "imageName": "Foxglove.JPG",
+                "relativeImagePath": "./plant_images/Foxglove.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Grey Willow",
+                "latinName": "Salix cinerea",
+                "imageName": "Grey_Willow.JPG",
+                "relativeImagePath": "./plant_images/Grey_Willow.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Hard-fern",
+                "latinName": "Blechnum spicant",
+                "imageName": "Hard_fern.JPG",
+                "relativeImagePath": "./plant_images/Hard_fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Harebell",
+                "latinName": "Campanula rotundifolia",
+                "imageName": "Harebell.JPG",
+                "relativeImagePath": "./plant_images/Harebell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hazel",
+                "latinName": "Corylus avellana",
+                "imageName": "Hazel.JPG",
+                "relativeImagePath": "./plant_images/Hazel.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Heath Bedstraw",
+                "latinName": "Galium saxatile",
+                "imageName": "Heath_Bedstraw.JPG",
+                "relativeImagePath": "./plant_images/Heath_Bedstraw.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Heath Speedwell",
+                "latinName": "Veronica officinalis",
+                "imageName": "Heath_Speedwell.JPG",
+                "relativeImagePath": "./plant_images/Heath_Speedwell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Heather",
+                "latinName": "Calluna vulgaris",
+                "imageName": "Heather.JPG",
+                "relativeImagePath": "./plant_images/Heather.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Holly",
+                "latinName": "Ilex aquifolium",
+                "imageName": "Holly.JPG",
+                "relativeImagePath": "./plant_images/Holly.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Honeysuckle",
+                "latinName": "Lonicera periclymenum",
+                "imageName": "Honeysuckle.JPG",
+                "relativeImagePath": "./plant_images/Honeysuckle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Intermediate Wintergreen",
+                "latinName": "Pyrola media",
+                "imageName": "Intermediate_Wintergreen.JPG",
+                "relativeImagePath": "./plant_images/Intermediate_Wintergreen.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Juniper",
+                "latinName": "Juniperus communis",
+                "imageName": "Juniper.JPG",
+                "relativeImagePath": "./plant_images/Juniper.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lodgepole Pine",
+                "latinName": "Pinus contorta",
+                "imageName": "Lodgepole_Pine.JPG",
+                "relativeImagePath": "./plant_images/Lodgepole_Pine.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "One-flowered Wintergreen",
+                "latinName": "Moneses uniflora",
+                "imageName": "One_flowered_Wintergreen.JPG",
+                "relativeImagePath": "./plant_images/One_flowered_Wintergreen.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Ostrich-plume Feather-moss",
+                "latinName": "Ptilium crista-castrensis",
+                "imageName": "Ostrich_plume_Feather_moss.JPG",
+                "relativeImagePath": "./plant_images/Ostrich_plume_Feather_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rowan",
+                "latinName": "Sorbus aucuparia",
+                "imageName": "Rowan.JPG",
+                "relativeImagePath": "./plant_images/Rowan.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Scots Pine",
+                "latinName": "Pinus sylvestris",
+                "imageName": "Scots_Pine.JPG",
+                "relativeImagePath": "./plant_images/Scots_Pine.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Serrated Wintergreen",
+                "latinName": "Orthilia secunda",
+                "imageName": "Serrated_Wintergreen.JPG",
+                "relativeImagePath": "./plant_images/Serrated_Wintergreen.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Tormentil",
+                "latinName": "Potentilla erecta",
+                "imageName": "Tormentil.JPG",
+                "relativeImagePath": "./plant_images/Tormentil.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Twinflower",
+                "latinName": "Linnaea borealis",
+                "imageName": "Twinflower.JPG",
+                "relativeImagePath": "./plant_images/Twinflower.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yew",
+                "latinName": "Taxus baccata",
+                "imageName": "Yew.JPG",
+                "relativeImagePath": "./plant_images/Yew.JPG",
+                "copyrightName": "Lucy Hodson"
+            }
+        ]
+    },
+    {
+        "chapterNumber": "12",
+        "plants": [
+            {
+                "commonName": "Common Field-speedwell",
+                "latinName": "Veronica persica",
+                "imageName": "Common_Field_speedwell.JPG",
+                "relativeImagePath": "./plant_images/Common_Field_speedwell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Fumitory",
+                "latinName": "Fumaria officinalis",
+                "imageName": "Common_Fumitory.JPG",
+                "relativeImagePath": "./plant_images/Common_Fumitory.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Poppy",
+                "latinName": "Papaver rhoeas",
+                "imageName": "Common_Poppy.JPG",
+                "relativeImagePath": "./plant_images/Common_Poppy.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Corn Buttercup",
+                "latinName": "Ranunculus arvensis",
+                "imageName": "Corn_Buttercup.JPG",
+                "relativeImagePath": "./plant_images/Corn_Buttercup.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Corn Marigold",
+                "latinName": "Glebionis segetum",
+                "imageName": "Corn_Marigold.JPG",
+                "relativeImagePath": "./plant_images/Corn_Marigold.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Corncockle",
+                "latinName": "Agrostemma githago",
+                "imageName": "Corncockle.JPG",
+                "relativeImagePath": "./plant_images/Corncockle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cornflower",
+                "latinName": "Centaurea cyanus",
+                "imageName": "Cornflower.JPG",
+                "relativeImagePath": "./plant_images/Cornflower.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dwarf Spurge",
+                "latinName": "Euphorbia exigua",
+                "imageName": "Dwarf_Spurge.JPG",
+                "relativeImagePath": "./plant_images/Dwarf_Spurge.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "False Oat-grass",
+                "latinName": "Arrhenatherum elatius",
+                "imageName": "False_Oat_grass.JPG",
+                "relativeImagePath": "./plant_images/False_Oat_grass.JPG",
+                "copyrightName": "Dominic Price"
+            },
+            {
+                "commonName": "Field Bindweed",
+                "latinName": "Convolvulus arvensis",
+                "imageName": "Field_Bindweed.JPG",
+                "relativeImagePath": "./plant_images/Field_Bindweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Field Madder",
+                "latinName": "Sherardia arvensis",
+                "imageName": "Field_Madder.JPG",
+                "relativeImagePath": "./plant_images/Field_Madder.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Field Pansy",
+                "latinName": "Viola arvensis",
+                "imageName": "Field_Pansy.JPG",
+                "relativeImagePath": "./plant_images/Field_Pansy.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Fine-leaved Fumitory",
+                "latinName": "Fumaria parviflora",
+                "imageName": "Fine_leaved_Fumitory.JPG",
+                "relativeImagePath": "./plant_images/Fine_leaved_Fumitory.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Mousetail",
+                "latinName": "Myosurus minimus",
+                "imageName": "Mousetail.JPG",
+                "relativeImagePath": "./plant_images/Mousetail.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Narrow-fruited Cornsalad",
+                "latinName": "Valerianella dentata",
+                "imageName": "Narrow_fruited_Cornsalad.JPG",
+                "relativeImagePath": "./plant_images/Narrow_fruited_Cornsalad.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Night-flowering Catchfly",
+                "latinName": "Silene noctiflora",
+                "imageName": "Night_flowering_Catchfly.JPG",
+                "relativeImagePath": "./plant_images/Night_flowering_Catchfly.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Phacelia",
+                "latinName": "Phacelia tanacetifolia",
+                "imageName": "Phacelia.JPG",
+                "relativeImagePath": "./plant_images/Phacelia.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Pineappleweed",
+                "latinName": "Matricaria discoidea",
+                "imageName": "Pineappleweed.JPG",
+                "relativeImagePath": "./plant_images/Pineappleweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Hemp-nettle",
+                "latinName": "Galeopsis angustifolia",
+                "imageName": "Red_Hemp_nettle.JPG",
+                "relativeImagePath": "./plant_images/Red_Hemp_nettle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Scarlet Pimpernel",
+                "latinName": "Anagallis arvensis",
+                "imageName": "Scarlet_Pimpernel.JPG",
+                "relativeImagePath": "./plant_images/Scarlet_Pimpernel.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Spreading Hedge-parsley",
+                "latinName": "Torilis arvensis",
+                "imageName": "Spreading_Hedge_parsley.JPG",
+                "relativeImagePath": "./plant_images/Spreading_Hedge_parsley.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sun Spurge",
+                "latinName": "Euphorbia helioscopia",
+                "imageName": "Sun_Spurge.JPG",
+                "relativeImagePath": "./plant_images/Sun_Spurge.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Venus's-looking-glass",
+                "latinName": "Legousia hybrida",
+                "imageName": "Venus_s_looking_glass.JPG",
+                "relativeImagePath": "./plant_images/Venus_s_looking_glass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Weasel's-snout",
+                "latinName": "Misopates orontium",
+                "imageName": "Weasel_s_snout.JPG",
+                "relativeImagePath": "./plant_images/Weasel_s_snout.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "13",
+        "plants": [
+            {
+                "commonName": "Alder",
+                "latinName": "Alnus glutinosa",
+                "imageName": "Alder.JPG",
+                "relativeImagePath": "./plant_images/Alder.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Blunt-leaved Pondweed",
+                "latinName": "Potamogeton obtusifolius",
+                "imageName": "Blunt_leaved_Pondweed.JPG",
+                "relativeImagePath": "./plant_images/Blunt_leaved_Pondweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Duckweed",
+                "latinName": "Lemna minor",
+                "imageName": "Common_Duckweed.JPG",
+                "relativeImagePath": "./plant_images/Common_Duckweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Crested Buckler-fern",
+                "latinName": "Dryopteris cristata",
+                "imageName": "Crested_Buckler_fern.JPG",
+                "relativeImagePath": "./plant_images/Crested_Buckler_fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Downy Birch",
+                "latinName": "Betula pubescens",
+                "imageName": "Downy_Birch.JPG",
+                "relativeImagePath": "./plant_images/Downy_Birch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Fen Orchid",
+                "latinName": "Liparis loeselii",
+                "imageName": "Fen_Orchid.JPG",
+                "relativeImagePath": "./plant_images/Fen_Orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Frogbit",
+                "latinName": "Hydrocharis morsus-ranae",
+                "imageName": "Frogbit.JPG",
+                "relativeImagePath": "./plant_images/Frogbit.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Greater Bladderwort",
+                "latinName": "Utricularia vulgaris",
+                "imageName": "Greater_Bladderwort.JPG",
+                "relativeImagePath": "./plant_images/Greater_Bladderwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Greater Water-parsnip",
+                "latinName": "Sium latifolium",
+                "imageName": "Greater_Water_parsnip.JPG",
+                "relativeImagePath": "./plant_images/Greater_Water_parsnip.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ivy-leaved Duckweed",
+                "latinName": "Lemna trisulca",
+                "imageName": "Ivy_leaved_Duckweed.JPG",
+                "relativeImagePath": "./plant_images/Ivy_leaved_Duckweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Milk-parsley",
+                "latinName": "Peucedanum palustre",
+                "imageName": "Milk_parsley.JPG",
+                "relativeImagePath": "./plant_images/Milk_parsley.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Purple-loosestrife",
+                "latinName": "Lythrum salicaria",
+                "imageName": "Purple_loosestrife.JPG",
+                "relativeImagePath": "./plant_images/Purple_loosestrife.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rigid Hornwort",
+                "latinName": "Ceratophyllum demersum",
+                "imageName": "Rigid_Hornwort.JPG",
+                "relativeImagePath": "./plant_images/Rigid_Hornwort.JPG",
+                "copyrightName": "Ben Goldsmith"
+            },
+            {
+                "commonName": "Slender Sedge",
+                "latinName": "Carex lasiocarpa",
+                "imageName": "Slender_Sedge.JPG",
+                "relativeImagePath": "./plant_images/Slender_Sedge.JPG",
+                "copyrightName": "Alex Prendergast"
+            },
+            {
+                "commonName": "Water-soldier",
+                "latinName": "Stratiotes aloides",
+                "imageName": "Water_soldier.JPG",
+                "relativeImagePath": "./plant_images/Water_soldier.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "White Water-lily",
+                "latinName": "Nymphaea alba",
+                "imageName": "White_Water_lily.JPG",
+                "relativeImagePath": "./plant_images/White_Water_lily.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Whorled Water-milfoil",
+                "latinName": "Myriophyllum verticillatum",
+                "imageName": "Whorled_Water_milfoil.JPG",
+                "relativeImagePath": "./plant_images/Whorled_Water_milfoil.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yellow Water-lily",
+                "latinName": "Nuphar lutea",
+                "imageName": "Yellow_Water_lily.JPG",
+                "relativeImagePath": "./plant_images/Yellow_Water_lily.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "14",
+        "plants": [
+            {
+                "commonName": "Alpine Blue-sow-thistle",
+                "latinName": "Cicerbita alpina",
+                "imageName": "Alpine_Blue_sow_thistle.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Blue_sow_thistle.JPG",
+                "copyrightName": "Shaila Rao (National Trust for Scotland)"
+            },
+            {
+                "commonName": "Alpine Catchfly",
+                "latinName": "Lychnis alpina",
+                "imageName": "Alpine_Catchfly.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Catchfly.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Alpine Fleabane",
+                "latinName": "Erigeron borealis",
+                "imageName": "Alpine_Fleabane.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Fleabane.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Alpine Forget-me-not",
+                "latinName": "Myosotis alpestris",
+                "imageName": "Alpine_Forget_me_not.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Forget_me_not.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Alpine Gentian",
+                "latinName": "Gentiana nivalis",
+                "imageName": "Alpine_Gentian.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Gentian.JPG",
+                "copyrightName": "Sarah H Watts"
+            },
+            {
+                "commonName": "Alpine Lady's-mantle",
+                "latinName": "Alchemilla alpina",
+                "imageName": "Alpine_Lady_s_mantle.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Lady_s_mantle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Alpine Milk-vetch",
+                "latinName": "Astragalus alpinus",
+                "imageName": "Alpine_Milk_vetch.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Milk_vetch.JPG",
+                "copyrightName": "Dan Watson (National Trust for Scotland)"
+            },
+            {
+                "commonName": "Alpine Mouse-ear",
+                "latinName": "Cerastium alpinum",
+                "imageName": "Alpine_Mouse_ear.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Mouse_ear.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Alpine Pearlwort",
+                "latinName": "Sagina saginoides",
+                "imageName": "Alpine_Pearlwort.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Pearlwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Alpine Saxifrage",
+                "latinName": "Saxifraga nivalis",
+                "imageName": "Alpine_Saxifrage.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Saxifrage.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Alpine Speedwell",
+                "latinName": "Veronica alpina",
+                "imageName": "Alpine_Speedwell.JPG",
+                "relativeImagePath": "./plant_images/Alpine_Speedwell.JPG",
+                "copyrightName": "Sarah H Watts"
+            },
+            {
+                "commonName": "Annual Pearlwort",
+                "latinName": "Sagina apetala",
+                "imageName": "Annual_Pearlwort.JPG",
+                "relativeImagePath": "./plant_images/Annual_Pearlwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Canadian Goldenrod",
+                "latinName": "Solidago canadensis",
+                "imageName": "Canadian_Goldenrod.JPG",
+                "relativeImagePath": "./plant_images/Canadian_Goldenrod.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Ragwort",
+                "latinName": "Jacobaea vulgaris",
+                "imageName": "Common_Ragwort.JPG",
+                "relativeImagePath": "./plant_images/Common_Ragwort.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Common Valerian",
+                "latinName": "Valeriana officinalis",
+                "imageName": "Common_Valerian.JPG",
+                "relativeImagePath": "./plant_images/Common_Valerian.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Crested Cow-wheat",
+                "latinName": "Melampyrum cristatum",
+                "imageName": "Crested_Cow_wheat.JPG",
+                "relativeImagePath": "./plant_images/Crested_Cow_wheat.JPG",
+                "copyrightName": "Pete Stroh"
+            },
+            {
+                "commonName": "Cyphel",
+                "latinName": "Minuartia sedoides",
+                "imageName": "Cyphel.JPG",
+                "relativeImagePath": "./plant_images/Cyphel.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Drooping Saxifrage",
+                "latinName": "Saxifraga cernua",
+                "imageName": "Drooping_Saxifrage.JPG",
+                "relativeImagePath": "./plant_images/Drooping_Saxifrage.JPG",
+                "copyrightName": "Sarah H Watts"
+            },
+            {
+                "commonName": "Dwarf Willow",
+                "latinName": "Salix herbacea",
+                "imageName": "Dwarf_Willow.JPG",
+                "relativeImagePath": "./plant_images/Dwarf_Willow.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Fir Clubmoss",
+                "latinName": "Huperzia selago",
+                "imageName": "Fir_Clubmoss.JPG",
+                "relativeImagePath": "./plant_images/Fir_Clubmoss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Grass-of-Parnassus",
+                "latinName": "Parnassia palustris",
+                "imageName": "Grass_of_Parnassus.JPG",
+                "relativeImagePath": "./plant_images/Grass_of_Parnassus.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Highland Saxifrage",
+                "latinName": "Saxifraga rivularis",
+                "imageName": "Highland_Saxifrage.JPG",
+                "relativeImagePath": "./plant_images/Highland_Saxifrage.JPG",
+                "copyrightName": "Dan Watson (National Trust for Scotland)"
+            },
+            {
+                "commonName": "Holly-fern",
+                "latinName": "Polystichum lonchitis",
+                "imageName": "Holly_fern.JPG",
+                "relativeImagePath": "./plant_images/Holly_fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lemon-scented Fern",
+                "latinName": "Oreopteris limbosperma",
+                "imageName": "Lemon_scented_Fern.JPG",
+                "relativeImagePath": "./plant_images/Lemon_scented_Fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Marsh Saxifrage",
+                "latinName": "Saxifraga hirculus",
+                "imageName": "Marsh_Saxifrage.JPG",
+                "relativeImagePath": "./plant_images/Marsh_Saxifrage.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Meadowsweet",
+                "latinName": "Filipendula ulmaria",
+                "imageName": "Meadowsweet.JPG",
+                "relativeImagePath": "./plant_images/Meadowsweet.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Moonwort",
+                "latinName": "Botrychium lunaria",
+                "imageName": "Moonwort.JPG",
+                "relativeImagePath": "./plant_images/Moonwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Moss Campion",
+                "latinName": "Silene acaulis",
+                "imageName": "Moss_Campion.JPG",
+                "relativeImagePath": "./plant_images/Moss_Campion.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Mountain Pansy",
+                "latinName": "Viola lutea",
+                "imageName": "Mountain_Pansy.JPG",
+                "relativeImagePath": "./plant_images/Mountain_Pansy.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Mountain Sandwort",
+                "latinName": "Sabulina rubella",
+                "imageName": "Mountain_Sandwort.JPG",
+                "relativeImagePath": "./plant_images/Mountain_Sandwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Procumbent Pearlwort",
+                "latinName": "Sagina procumbens",
+                "imageName": "Procumbent_Pearlwort.JPG",
+                "relativeImagePath": "./plant_images/Procumbent_Pearlwort.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Rosebay Willowherb",
+                "latinName": "Chamerion angustifolium",
+                "imageName": "Rosebay_Willowherb.JPG",
+                "relativeImagePath": "./plant_images/Rosebay_Willowherb.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Snow Pearlwort (buds)",
+                "latinName": "Sagina nivalis",
+                "imageName": "Snow_Pearlwort_(buds).JPG",
+                "relativeImagePath": "./plant_images/Snow_Pearlwort_(buds).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Snow Pearlwort",
+                "latinName": "Sagina nivalis",
+                "imageName": "Snow_Pearlwort.JPG",
+                "relativeImagePath": "./plant_images/Snow_Pearlwort.JPG",
+                "copyrightName": "Sarah H Watts"
+            },
+            {
+                "commonName": "Starry Saxifrage",
+                "latinName": "Micranthes stellaris",
+                "imageName": "Starry_Saxifrage.JPG",
+                "relativeImagePath": "./plant_images/Starry_Saxifrage.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Water Lobelia",
+                "latinName": "Lobelia dortmanna",
+                "imageName": "Water_Lobelia.JPG",
+                "relativeImagePath": "./plant_images/Water_Lobelia.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Woolly Fringe-moss",
+                "latinName": "Racomitrium lanuginosum",
+                "imageName": "Woolly_Fringe_moss.JPG",
+                "relativeImagePath": "./plant_images/Woolly_Fringe_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Woolly Willow",
+                "latinName": "Salix lanata",
+                "imageName": "Woolly_Willow.JPG",
+                "relativeImagePath": "./plant_images/Woolly_Willow.JPG",
+                "copyrightName": "Sarah H Watts"
+            },
+            {
+                "commonName": "Yellow Oxytropis",
+                "latinName": "Oxytropis campestris",
+                "imageName": "Yellow_Oxytropis.JPG",
+                "relativeImagePath": "./plant_images/Yellow_Oxytropis.JPG",
+                "copyrightName": "Dan Watson (National Trust for Scotland)"
+            },
+            {
+                "commonName": "Yellow Saxifrage",
+                "latinName": "Saxifraga aizoides",
+                "imageName": "Yellow_Saxifrage.JPG",
+                "relativeImagePath": "./plant_images/Yellow_Saxifrage.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "15",
+        "plants": [
+            {
+                "commonName": "Common Bent",
+                "latinName": "Agrostis capillaris",
+                "imageName": "Common_Bent.JPG",
+                "relativeImagePath": "./plant_images/Common_Bent.JPG",
+                "copyrightName": "Dominic Price"
+            },
+            {
+                "commonName": "Common Bird's-foot-trefoil",
+                "latinName": "Lotus corniculatus",
+                "imageName": "Common_Bird_s_foot_trefoil.JPG",
+                "relativeImagePath": "./plant_images/Common_Bird_s_foot_trefoil.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Knapweed",
+                "latinName": "Centaurea nigra",
+                "imageName": "Common_Knapweed.JPG",
+                "relativeImagePath": "./plant_images/Common_Knapweed.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Spotted-orchid",
+                "latinName": "Dactylorhiza fuchsii",
+                "imageName": "Common_Spotted_orchid.JPG",
+                "relativeImagePath": "./plant_images/Common_Spotted_orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Devil's-bit Scabious",
+                "latinName": "Succisa pratensis",
+                "imageName": "Devil_s_bit_Scabious.JPG",
+                "relativeImagePath": "./plant_images/Devil_s_bit_Scabious.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Devil's-bit Scabious (buds)",
+                "latinName": "Succisa pratensis",
+                "imageName": "Devil_s_bit_Scabious_(buds).JPG",
+                "relativeImagePath": "./plant_images/Devil_s_bit_Scabious_(buds).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Greater Bird's-foot-trefoil",
+                "latinName": "Lotus pedunculatus",
+                "imageName": "Greater_Bird_s_foot_trefoil.JPG",
+                "relativeImagePath": "./plant_images/Greater_Bird_s_foot_trefoil.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Greater Butterfly-orchid",
+                "latinName": "Platanthera chlorantha",
+                "imageName": "Greater_Butterfly_orchid.JPG",
+                "relativeImagePath": "./plant_images/Greater_Butterfly_orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hawthorn",
+                "latinName": "Crataegus monogyna",
+                "imageName": "Hawthorn.JPG",
+                "relativeImagePath": "./plant_images/Hawthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Irish Lady's-tresses",
+                "latinName": "Spiranthes romanzoffiana",
+                "imageName": "Irish_Lady_s_tresses.JPG",
+                "relativeImagePath": "./plant_images/Irish_Lady_s_tresses.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Meadow Buttercup",
+                "latinName": "Ranunculus acris",
+                "imageName": "Meadow_Buttercup.JPG",
+                "relativeImagePath": "./plant_images/Meadow_Buttercup.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Meadowsweet",
+                "latinName": "Filipendula ulmaria",
+                "imageName": "Meadowsweet.JPG",
+                "relativeImagePath": "./plant_images/Meadowsweet.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Northern Marsh-orchid",
+                "latinName": "Dactylorhiza purpurella",
+                "imageName": "Northern_Marsh_orchid.JPG",
+                "relativeImagePath": "./plant_images/Northern_Marsh_orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ox-eye Daisy",
+                "latinName": "Leucanthemum vulgare",
+                "imageName": "Ox_eye_Daisy.JPG",
+                "relativeImagePath": "./plant_images/Ox_eye_Daisy.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Clover",
+                "latinName": "Trifolium pratense",
+                "imageName": "Red_Clover.JPG",
+                "relativeImagePath": "./plant_images/Red_Clover.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Rosebay Willowherb",
+                "latinName": "Chamerion angustifolium",
+                "imageName": "Rosebay_Willowherb.JPG",
+                "relativeImagePath": "./plant_images/Rosebay_Willowherb.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Self-heal",
+                "latinName": "Prunella vulgaris",
+                "imageName": "Self_heal.JPG",
+                "relativeImagePath": "./plant_images/Self_heal.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sneezewort",
+                "latinName": "Achillea ptarmica",
+                "imageName": "Sneezewort.JPG",
+                "relativeImagePath": "./plant_images/Sneezewort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Tufted Vetch",
+                "latinName": "Vicia cracca",
+                "imageName": "Tufted_Vetch.JPG",
+                "relativeImagePath": "./plant_images/Tufted_Vetch.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Whorled Caraway",
+                "latinName": "Carum verticillatum",
+                "imageName": "Whorled_Caraway.JPG",
+                "relativeImagePath": "./plant_images/Whorled_Caraway.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wild Carrot",
+                "latinName": "Daucus carota",
+                "imageName": "Wild_Carrot.JPG",
+                "relativeImagePath": "./plant_images/Wild_Carrot.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yellow-rattle",
+                "latinName": "Rhinanthus minor",
+                "imageName": "Yellow_rattle.JPG",
+                "relativeImagePath": "./plant_images/Yellow_rattle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yorkshire-fog",
+                "latinName": "Holcus lanatus",
+                "imageName": "Yorkshire_fog.JPG",
+                "relativeImagePath": "./plant_images/Yorkshire_fog.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "16",
+        "plants": [
+            {
+                "commonName": "Bramble",
+                "latinName": "Rubus fruticosus agg.",
+                "imageName": "Bramble.JPG",
+                "relativeImagePath": "./plant_images/Bramble.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Cord-grass",
+                "latinName": "Spartina anglica",
+                "imageName": "Common_Cord_grass.JPG",
+                "relativeImagePath": "./plant_images/Common_Cord_grass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Glasswort",
+                "latinName": "Salicornia europaea agg.",
+                "imageName": "Common_Glasswort.JPG",
+                "relativeImagePath": "./plant_images/Common_Glasswort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Restharrow",
+                "latinName": "Ononis repens",
+                "imageName": "Common_Restharrow.JPG",
+                "relativeImagePath": "./plant_images/Common_Restharrow.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Creeping Willow",
+                "latinName": "Salix repens",
+                "imageName": "Creeping_Willow.JPG",
+                "relativeImagePath": "./plant_images/Creeping_Willow.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dewberry (fruit)",
+                "latinName": "Rubus caesius",
+                "imageName": "Dewberry_(fruit).JPG",
+                "relativeImagePath": "./plant_images/Dewberry_(fruit).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dewberry",
+                "latinName": "Rubus caesius",
+                "imageName": "Dewberry.JPG",
+                "relativeImagePath": "./plant_images/Dewberry.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Greater Sea-spurrey",
+                "latinName": "Spergularia media",
+                "imageName": "Greater_Sea_spurrey.JPG",
+                "relativeImagePath": "./plant_images/Greater_Sea_spurrey.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hare's-foot Clover",
+                "latinName": "Trifolium arvense",
+                "imageName": "Hare_s_foot_Clover.JPG",
+                "relativeImagePath": "./plant_images/Hare_s_foot_Clover.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lady's Bedstraw",
+                "latinName": "Galium verum",
+                "imageName": "Lady_s_Bedstraw.JPG",
+                "relativeImagePath": "./plant_images/Lady_s_Bedstraw.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lax-flowered Sea-lavender",
+                "latinName": "Limonium humile",
+                "imageName": "Lax_flowered_Sea_lavender.JPG",
+                "relativeImagePath": "./plant_images/Lax_flowered_Sea_lavender.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lesser Sea-spurrey",
+                "latinName": "Spergularia marina",
+                "imageName": "Lesser_Sea_spurrey.JPG",
+                "relativeImagePath": "./plant_images/Lesser_Sea_spurrey.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Lesser Spearwort",
+                "latinName": "Ranunculus flammula",
+                "imageName": "Lesser_Spearwort.JPG",
+                "relativeImagePath": "./plant_images/Lesser_Spearwort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Marram",
+                "latinName": "Ammophila arenaria",
+                "imageName": "Marram.JPG",
+                "relativeImagePath": "./plant_images/Marram.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Marsh Helleborine",
+                "latinName": "Epipactis palustris",
+                "imageName": "Marsh_Helleborine.JPG",
+                "relativeImagePath": "./plant_images/Marsh_Helleborine.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Red Fescue",
+                "latinName": "Festuca rubra",
+                "imageName": "Red_Fescue.JPG",
+                "relativeImagePath": "./plant_images/Red_Fescue.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Arrowgrass",
+                "latinName": "Triglochin maritimum",
+                "imageName": "Sea_Arrowgrass.JPG",
+                "relativeImagePath": "./plant_images/Sea_Arrowgrass.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Aster",
+                "latinName": "Aster tripolium",
+                "imageName": "Sea_Aster.JPG",
+                "relativeImagePath": "./plant_images/Sea_Aster.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Plantain",
+                "latinName": "Plantago maritima",
+                "imageName": "Sea_Plantain.JPG",
+                "relativeImagePath": "./plant_images/Sea_Plantain.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Rocket",
+                "latinName": "Cakile maritima",
+                "imageName": "Sea_Rocket.JPG",
+                "relativeImagePath": "./plant_images/Sea_Rocket.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea-holly",
+                "latinName": "Eryngium maritimum",
+                "imageName": "Sea_holly.JPG",
+                "relativeImagePath": "./plant_images/Sea_holly.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sticky Groundsel",
+                "latinName": "Senecio viscosus",
+                "imageName": "Sticky_Groundsel.JPG",
+                "relativeImagePath": "./plant_images/Sticky_Groundsel.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Thrift",
+                "latinName": "Armeria maritima",
+                "imageName": "Thrift.JPG",
+                "relativeImagePath": "./plant_images/Thrift.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wild Thyme",
+                "latinName": "Thymus polytrichus",
+                "imageName": "Wild_Thyme.JPG",
+                "relativeImagePath": "./plant_images/Wild_Thyme.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "17",
+        "plants": [
+            {
+                "commonName": "Acute-leaved Bog-moss",
+                "latinName": "Sphagnum capillifolium ssp. capillifolium",
+                "imageName": "Acute_leaved_Bog_moss.JPG",
+                "relativeImagePath": "./plant_images/Acute_leaved_Bog_moss.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Autumn Lady's-tresses",
+                "latinName": "Spiranthes spiralis",
+                "imageName": "Autumn_Lady_s_tresses.JPG",
+                "relativeImagePath": "./plant_images/Autumn_Lady_s_tresses.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bell Heather",
+                "latinName": "Erica cinerea",
+                "imageName": "Bell_Heather.JPG",
+                "relativeImagePath": "./plant_images/Bell_Heather.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bog-myrtle",
+                "latinName": "Myrica gale",
+                "imageName": "Bog_myrtle.JPG",
+                "relativeImagePath": "./plant_images/Bog_myrtle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bracken",
+                "latinName": "Pteridium aquilinum",
+                "imageName": "Bracken.JPG",
+                "relativeImagePath": "./plant_images/Bracken.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Bramble (fruit)",
+                "latinName": "Rubus fruticosus agg.",
+                "imageName": "Bramble_(fruit).JPG",
+                "relativeImagePath": "./plant_images/Bramble_(fruit).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Centaury",
+                "latinName": "Centaurium erythraea",
+                "imageName": "Common_Centaury.JPG",
+                "relativeImagePath": "./plant_images/Common_Centaury.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Compact Bog-moss",
+                "latinName": "Sphagnum compactum",
+                "imageName": "Compact_Bog_moss.JPG",
+                "relativeImagePath": "./plant_images/Compact_Bog_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Coral-necklace",
+                "latinName": "Illecebrum verticillatum",
+                "imageName": "Coral_necklace.JPG",
+                "relativeImagePath": "./plant_images/Coral_necklace.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Cross-leaved Heath",
+                "latinName": "Erica tetralix",
+                "imageName": "Cross_leaved_Heath.JPG",
+                "relativeImagePath": "./plant_images/Cross_leaved_Heath.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Devil's-bit Scabious",
+                "latinName": "Succisa pratensis",
+                "imageName": "Devil_s_bit_Scabious.JPG",
+                "relativeImagePath": "./plant_images/Devil_s_bit_Scabious.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dwarf Gorse",
+                "latinName": "Ulex minor",
+                "imageName": "Dwarf_Gorse.JPG",
+                "relativeImagePath": "./plant_images/Dwarf_Gorse.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "English Oak (acorns)",
+                "latinName": "Quercus robur",
+                "imageName": "English_Oak_(acorns).JPG",
+                "relativeImagePath": "./plant_images/English_Oak_(acorns).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "English Oak",
+                "latinName": "Quercus robur",
+                "imageName": "English_Oak.JPG",
+                "relativeImagePath": "./plant_images/English_Oak.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Field Gentian",
+                "latinName": "Gentianella campestris",
+                "imageName": "Field_Gentian.JPG",
+                "relativeImagePath": "./plant_images/Field_Gentian.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Flat-topped Bog-moss",
+                "latinName": "Sphagnum fallax",
+                "imageName": "Flat_topped_Bog_moss.JPG",
+                "relativeImagePath": "./plant_images/Flat_topped_Bog_moss.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Heather",
+                "latinName": "Calluna vulgaris",
+                "imageName": "Heather.JPG",
+                "relativeImagePath": "./plant_images/Heather.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Marsh Gentian",
+                "latinName": "Gentiana pneumonanthe",
+                "imageName": "Marsh_Gentian.JPG",
+                "relativeImagePath": "./plant_images/Marsh_Gentian.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Oblong-leaved Sundew",
+                "latinName": "Drosera intermedia",
+                "imageName": "Oblong_leaved_Sundew.JPG",
+                "relativeImagePath": "./plant_images/Oblong_leaved_Sundew.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Round-leaved Sundew",
+                "latinName": "Drosera rotundifolia",
+                "imageName": "Round_leaved_Sundew.JPG",
+                "relativeImagePath": "./plant_images/Round_leaved_Sundew.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Scots Pine",
+                "latinName": "Pinus sylvestris",
+                "imageName": "Scots_Pine.JPG",
+                "relativeImagePath": "./plant_images/Scots_Pine.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Tormentil",
+                "latinName": "Potentilla erecta",
+                "imageName": "Tormentil.JPG",
+                "relativeImagePath": "./plant_images/Tormentil.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "18",
+        "plants": [
+            {
+                "commonName": "Alexanders",
+                "latinName": "Smyrnium olusatrum",
+                "imageName": "Alexanders.JPG",
+                "relativeImagePath": "./plant_images/Alexanders.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Beech",
+                "latinName": "Fagus sylvatica",
+                "imageName": "Beech.JPG",
+                "relativeImagePath": "./plant_images/Beech.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bladder Wrack",
+                "latinName": "Fucus vesiculosus",
+                "imageName": "Bladder_Wrack.JPG",
+                "relativeImagePath": "./plant_images/Bladder_Wrack.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bristly Oxtongue",
+                "latinName": "Helminthotheca echioides",
+                "imageName": "Bristly_Oxtongue.JPG",
+                "relativeImagePath": "./plant_images/Bristly_Oxtongue.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Broad Buckler-fern",
+                "latinName": "Dryopteris dilatata",
+                "imageName": "Broad_Buckler_fern.JPG",
+                "relativeImagePath": "./plant_images/Broad_Buckler_fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Carrageen",
+                "latinName": "Chondrus crispus",
+                "imageName": "Carrageen.JPG",
+                "relativeImagePath": "./plant_images/Carrageen.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Lime",
+                "latinName": "Tilia x europaea",
+                "imageName": "Common_Lime.JPG",
+                "relativeImagePath": "./plant_images/Common_Lime.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Dulse",
+                "latinName": "Palmaria palmata",
+                "imageName": "Dulse.JPG",
+                "relativeImagePath": "./plant_images/Dulse.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "English Oak",
+                "latinName": "Quercus robur",
+                "imageName": "English_Oak.JPG",
+                "relativeImagePath": "./plant_images/English_Oak.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Field Maple",
+                "latinName": "Acer campestre",
+                "imageName": "Field_Maple.JPG",
+                "relativeImagePath": "./plant_images/Field_Maple.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hawthorn (berries)",
+                "latinName": "Crataegus monogyna",
+                "imageName": "Hawthorn_(berries).JPG",
+                "relativeImagePath": "./plant_images/Hawthorn_(berries).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hazel",
+                "latinName": "Corylus avellana",
+                "imageName": "Hazel.JPG",
+                "relativeImagePath": "./plant_images/Hazel.JPG",
+                "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Honeysuckle (berries)",
+                "latinName": "Lonicera periclymenum",
+                "imageName": "Honeysuckle_(berries).JPG",
+                "relativeImagePath": "./plant_images/Honeysuckle_(berries).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Horse-chestnut (conkers)",
+                "latinName": "Aesculus hippocastanum",
+                "imageName": "Horse_chestnut_(conkers).JPG",
+                "relativeImagePath": "./plant_images/Horse_chestnut_(conkers).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ivy (berries)",
+                "latinName": "Hedera helix",
+                "imageName": "Ivy_(berries).JPG",
+                "relativeImagePath": "./plant_images/Ivy_(berries).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Ivy",
+                "latinName": "Hedera helix",
+                "imageName": "Ivy.JPG",
+                "relativeImagePath": "./plant_images/Ivy.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Laver",
+                "latinName": "Porphyra umbilicalis",
+                "imageName": "Laver.JPG",
+                "relativeImagePath": "./plant_images/Laver.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Meadowsweet",
+                "latinName": "Filipendula ulmaria",
+                "imageName": "Meadowsweet.JPG",
+                "relativeImagePath": "./plant_images/Meadowsweet.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Mermaid's Hair",
+                "latinName": "Ulva linza",
+                "imageName": "Mermaid_s_Hair.JPG",
+                "relativeImagePath": "./plant_images/Mermaid_s_Hair.JPG",
+                "copyrightName": "Lucia Stuart (The Wild Kitchen)"
+            },
+            {
+                "commonName": "Oarweed",
+                "latinName": "Laminaria digitata",
+                "imageName": "Oarweed.JPG",
+                "relativeImagePath": "./plant_images/Oarweed.JPG",
+                "copyrightName": "Lucia Stuart (The Wild Kitchen)"
+            },
+            {
+                "commonName": "Pepper Dulse",
+                "latinName": "Osmundea pinnatifida",
+                "imageName": "Pepper_Dulse.JPG",
+                "relativeImagePath": "./plant_images/Pepper_Dulse.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea Lettuce",
+                "latinName": "Ulva lactuca",
+                "imageName": "Sea_Lettuce.JPG",
+                "relativeImagePath": "./plant_images/Sea_Lettuce.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sea-buckthorn",
+                "latinName": "Hippophae rhamnoides",
+                "imageName": "Sea_buckthorn.JPG",
+                "relativeImagePath": "./plant_images/Sea_buckthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Serrated Wrack",
+                "latinName": "Fucus serratus",
+                "imageName": "Serrated_Wrack.JPG",
+                "relativeImagePath": "./plant_images/Serrated_Wrack.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yarrow",
+                "latinName": "Achillea millefolium",
+                "imageName": "Yarrow.JPG",
+                "relativeImagePath": "./plant_images/Yarrow.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yew",
+                "latinName": "Taxus beccata",
+                "imageName": "Yew.JPG",
+                "relativeImagePath": "./plant_images/Yew.JPG",
+                "copyrightName": "Lucy Hodson"
+            }
+        ]
+    },
+    {
+        "chapterNumber": "19",
+        "plants": [
+            {
+                "commonName": "Common Haircap",
+                "latinName": "Polytrichum commune",
+                "imageName": "Common_Haircap.JPG",
+                "relativeImagePath": "./plant_images/Common_Haircap.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Tamarisk-moss",
+                "latinName": "Thuidium tamariscinum",
+                "imageName": "Common_Tamarisk_moss.JPG",
+                "relativeImagePath": "./plant_images/Common_Tamarisk_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dilated Scalewort",
+                "latinName": "Frullania dilatata",
+                "imageName": "Dilated_Scalewort.JPG",
+                "relativeImagePath": "./plant_images/Dilated_Scalewort.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Greater Fork-moss",
+                "latinName": "Dicranum majus",
+                "imageName": "Greater_Fork_moss.JPG",
+                "relativeImagePath": "./plant_images/Greater_Fork_moss.JPG",
+                "copyrightName": "Dominic Price"
+            },
+            {
+                "commonName": "Hard-fern",
+                "latinName": "Blechnum spicant",
+                "imageName": "Hard_fern.JPG",
+                "relativeImagePath": "./plant_images/Hard_fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hay-scented Buckler-fern",
+                "latinName": "Dryopteris aemula",
+                "imageName": "Hay_scented_Buckler_fern.JPG",
+                "relativeImagePath": "./plant_images/Hay_scented_Buckler_fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Little Shaggy-moss",
+                "latinName": "Rhytidiadelphus loreus",
+                "imageName": "Little_Shaggy_moss.JPG",
+                "relativeImagePath": "./plant_images/Little_Shaggy_moss.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Polypody",
+                "latinName": "Polypodium vulgare",
+                "imageName": "Polypody.JPG",
+                "relativeImagePath": "./plant_images/Polypody.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Scaly Male-fern",
+                "latinName": "Dryopteris affinis",
+                "imageName": "Scaly_Male_fern.JPG",
+                "relativeImagePath": "./plant_images/Scaly_Male_fern.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Sessile Oak",
+                "latinName": "Quercus petraea",
+                "imageName": "Sessile_Oak.JPG",
+                "relativeImagePath": "./plant_images/Sessile_Oak.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Tunbridge Filmy-fern",
+                "latinName": "Hymenophyllum tunbrigense",
+                "imageName": "Tunbridge_Filmy_fern.JPG",
+                "relativeImagePath": "./plant_images/Tunbridge_Filmy_fern.JPG",
+                "copyrightName": ""
+            }
+        ]
+    },
+    {
+        "chapterNumber": "20",
+        "plants": [
+            {
+                "commonName": "Ash",
+                "latinName": "Fraxinus excelsior",
+                "imageName": "Ash.JPG",
+                "relativeImagePath": "./plant_images/Ash.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Blackthorn",
+                "latinName": "Prunus spinosa",
+                "imageName": "Blackthorn.JPG",
+                "relativeImagePath": "./plant_images/Blackthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Bluebell",
+                "latinName": "Hyacinthoides non-scripta",
+                "imageName": "Bluebell.JPG",
+                "relativeImagePath": "./plant_images/Bluebell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Buckthorn",
+                "latinName": "Rhamnus cathartica",
+                "imageName": "Buckthorn.JPG",
+                "relativeImagePath": "./plant_images/Buckthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Common Field-speedwell",
+                "latinName": "Veronica persica",
+                "imageName": "Common_Field_speedwell.JPG",
+                "relativeImagePath": "./plant_images/Common_Field_speedwell.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Dogwood",
+                "latinName": "Cornus sanguinea",
+                "imageName": "Dogwood.JPG",
+                "relativeImagePath": "./plant_images/Dogwood.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Field Maple",
+                "latinName": "Acer campestre",
+                "imageName": "Field_Maple.JPG",
+                "relativeImagePath": "./plant_images/Field_Maple.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Guelder-rose",
+                "latinName": "Viburnum opulus",
+                "imageName": "Guelder_rose.JPG",
+                "relativeImagePath": "./plant_images/Guelder_rose.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Hawthorn",
+                "latinName": "Crataegus monogyna",
+                "imageName": "Hawthorn.JPG",
+                "relativeImagePath": "./plant_images/Hawthorn.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Holly",
+                "latinName": "Ilex aquifolium",
+                "imageName": "Holly.JPG",
+                "relativeImagePath": "./plant_images/Holly.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Mistletoe (berries)",
+                "latinName": "Viscum album",
+                "imageName": "Mistletoe_(berries).JPG",
+                "relativeImagePath": "./plant_images/Mistletoe_(berries).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Mistletoe",
+                "latinName": "Viscum album",
+                "imageName": "Mistletoe.JPG",
+                "relativeImagePath": "./plant_images/Mistletoe.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Northern Marsh-orchid",
+                "latinName": "Dactylorhiza purpurella",
+                "imageName": "Northern_Marsh_orchid.JPG",
+                "relativeImagePath": "./plant_images/Northern_Marsh_orchid.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Polypody",
+                "latinName": "Polypodium vulgare",
+                "imageName": "Polypody.JPG",
+                "relativeImagePath": "./plant_images/Polypody.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Spindle",
+                "latinName": "Euonymus europaeus",
+                "imageName": "Spindle.JPG",
+                "relativeImagePath": "./plant_images/Spindle.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Traveller's-joy (seeds)",
+                "latinName": "Clematis vitalba",
+                "imageName": "Traveller_s_joy_(seeds).JPG",
+                "relativeImagePath": "./plant_images/Traveller_s_joy_(seeds).JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Wayfaring-tree",
+                "latinName": "Viburnum lantana",
+                "imageName": "Wayfaring_tree.JPG",
+                "relativeImagePath": "./plant_images/Wayfaring_tree.JPG",
+                "copyrightName": ""
+            },
+            {
+                "commonName": "Yellow-rattle",
+                "latinName": "Rhinanthus minor",
+                "imageName": "Yellow_rattle.JPG",
+                "relativeImagePath": "./plant_images/Yellow_rattle.JPG",
+                "copyrightName": ""
             }
         ]
     }
