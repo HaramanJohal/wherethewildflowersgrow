@@ -4,7 +4,7 @@ import * as React from "react"
 import Layout from "../components/layout"
 
 export default function PlantsPage() {
-  const chapters = [...Array(2).keys()].map(
+  const chapters = [...Array(20).keys()].map(
     index => <Link to={`/chapters/${index + 1}`}>Chapter {index + 1}</Link>
   )
 

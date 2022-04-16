@@ -1,12 +1,12 @@
 import React from "react";
 
-import { twitter, instagram, website } from "./footer.module.css";
+import { footer, twitter, instagram, website } from "./footer.module.css";
 
 import { StaticImage } from "gatsby-plugin-image"
 
 export default function Footer() {
   return (
-    <div>
+    <div className={footer}>
       {/* <a href="">TikTok</a> */}
       <StaticImage src="../data/Footer.jpg" alt="Where the wildflowers grow"/>
       <a href="https://twitter.com/LeifBersweden?s=20&t=lXGzudGG6uwArNGTQlepSw">

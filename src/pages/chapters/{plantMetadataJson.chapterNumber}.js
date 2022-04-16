@@ -10,7 +10,7 @@ export default function Chapter({ data, pageContext }) {
   console.log(data)
   console.log(pageContext)
   const images = data.allPlantMetadataJson.nodes[0].plants.map(
-    plant => <Plant relativeImagePath={plant.relativeImagePath} commonName={plant.commonName} latinName={plant.latinName} />
+    plant => <Plant relativeImagePath={plant.relativeImagePath} commonName={plant.commonName} latinName={plant.latinName} copyrightName={plant.copyrightName} />
   )
   return(
     <Layout>
@@ -32,6 +32,7 @@ export const query = graphql`
         plants {
           commonName
           latinName
+          copyrightName
           imageName
           relativeImagePath {
             childImageSharp {

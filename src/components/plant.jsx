@@ -4,6 +4,10 @@ import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { plantImage, plantLabel } from './plant.module.css'
 
 export default function Plant(props) {
+  let copyright = null
+  if (props.copyrightName !== "") {
+    copyright = <p>© {props.copyrightName}</p>
+  }
   return (
     <div>
       <GatsbyImage
@@ -14,6 +18,7 @@ export default function Plant(props) {
       <div className={plantLabel}>
         <p>{props.commonName}</p>
         <p style={{fontStyle: 'italic'}}>{props.latinName}</p>
+        {copyright}
       </div>
     </div>
   )
