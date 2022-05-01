@@ -6,6 +6,7 @@
 
 .plant-label {
   font-size: 23px;
-  line-height: 10px;
+  line-height: 23px;
   text-align: 'center';
+  padding-bottom: 30px;
 }
