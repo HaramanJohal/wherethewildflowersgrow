@@ -1,22 +1,42 @@
 .footer {
   position: relative;
   padding-top: 100px;
+  padding-bottom: 130px;
+}
+
+.footer-pic {
+  width: 70%;
+  /* padding: 0 10px 0 0; */
+  float: left;
+}
+
+.logos {
+  width: 30%;
+  /* padding: 0 10px 0 0; */
+  /* float: right; */
+  padding-top: 130px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+@media only screen and (max-width: 1300px) {
+  .footer-pic {
+    width: 100%;
+    /* padding-bottom: 10px; */
+    float: none;
+  }
+
+  .logos {
+      width: 100%;
+      /* padding-bottom: 10px; */
+      float: none;
+  }
 }
 
 .twitter, .instagram, .website {
-  width: 5%;
-  position: absolute;
-  top: 45%;
-}
-
-.twitter {
-  left: 70%;
-}
-
-.instagram {
-  left: 80%;
-}
-
-.website {
-  left: 90%;
+  width: 100px;
+  /* height: 100px; */
+  position: relative;
+  /* padding-top: 45%; */
 }

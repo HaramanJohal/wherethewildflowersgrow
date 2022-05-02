@@ -12,9 +12,33 @@ export default function Chapter({ data, pageContext }) {
   const images = data.allPlantMetadataJson.nodes[0].plants.map(
     plant => <Plant relativeImagePath={plant.relativeImagePath} commonName={plant.commonName} latinName={plant.latinName} copyrightName={plant.copyrightName} />
   )
+  let chapterTitles = [
+    "Botanising by Bike",
+    "The New Year Plant Hunt",
+    "The Timekeepers",
+    "The Mountain Emperor of Pen-y-ghent",
+    "Bluebells of the South Downs Way",
+    "Sea Pinks and the Lizard",
+    "The Downland Danger Zone",
+    "Lakeland Rivers and The Buttercup Floodplain",
+    "Botanising on the Moon",
+    "The Shetland Mouse-ear",
+    "The Ancient Pine Forests of Caledonia",
+    "Poppies in the Cornfield",
+    "The Bladderwort on the Broads",
+    "The Cloud Flowers",
+    "The Meadow Maker",
+    "Beach Botany",
+    "Fly Traps and Bog Sponges",
+    "Autumn Leaves and Kentish Seaweeds",
+    "The Mossy Rainforest of West Cork",
+    "Something Worth Protecting"
+  ]
+
+  console.log(`tuna: ${parseInt(data.allPlantMetadataJson.nodes[0].chapterNumber)}`)
   return(
     <Layout>
-      <ChapterHeader heading={`Chapter ${data.allPlantMetadataJson.nodes[0].chapterNumber}`}/>
+      <ChapterHeader heading={`Chapter ${data.allPlantMetadataJson.nodes[0].chapterNumber}: ${chapterTitles[parseInt(data.allPlantMetadataJson.nodes[0].chapterNumber)-1]}`}/>
       <p>Photographs © Leif Bersweden unless stated otherwise</p>
       <Gallery>
         {images}

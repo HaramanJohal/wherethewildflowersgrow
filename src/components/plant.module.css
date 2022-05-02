@@ -1,5 +1,5 @@
 .plant-image {
-  object-fit: cover;
+  /* object-fit: cover; */
   width: 300px;
   height: 300px;
 }
@@ -9,4 +9,18 @@
   line-height: 23px;
   text-align: 'center';
   padding-bottom: 30px;
+}
+
+.modal-plant-image {
+  width: auto;
+  height: auto;
+  /* position: sticky; */
+}
+
+.modal {
+  z-index: 1;
+  /* position: sticky; */
+  /* left: 50%;
+  top: 50%; */
+  /* transform: translate(-50%, -50%); */
 }
