@@ -38,7 +38,7 @@ export default function Chapter({ data, pageContext }) {
   console.log(`tuna: ${parseInt(data.allPlantMetadataJson.nodes[0].chapterNumber)}`)
   return(
     <Layout>
-      <ChapterHeader heading={`Chapter ${data.allPlantMetadataJson.nodes[0].chapterNumber}: ${chapterTitles[parseInt(data.allPlantMetadataJson.nodes[0].chapterNumber)-1]}`}/>
+      <ChapterHeader chapterNumber={data.allPlantMetadataJson.nodes[0].chapterNumber} chapterName={chapterTitles[parseInt(data.allPlantMetadataJson.nodes[0].chapterNumber)-1]}/>
       <p>Photographs © Leif Bersweden unless stated otherwise</p>
       <Gallery>
         {images}

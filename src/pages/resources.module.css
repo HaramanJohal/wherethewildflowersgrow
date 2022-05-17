@@ -3,11 +3,11 @@
   width: "50%";
 }
 
-.resource-title {
+.resource-title .acknowledgements-title {
   font-size: 40px;
 }
 
-.resources {
+.resources .acknowledgements {
   text-align: "center";
   
   font-size: 25px;

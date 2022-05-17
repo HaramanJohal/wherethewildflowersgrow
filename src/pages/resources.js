@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 
-import {resourceDiv, resources, resourceTitle} from "./resources.module.css"
+import {resourceDiv, resources, resourceTitle, acknowledgementsTitle, acknowledgements} from "./resources.module.css"
 
 const ResourcesPage = () => {
     return (
@@ -56,6 +56,9 @@ const ResourcesPage = () => {
 
             <h2 className={resourceTitle}>Botanical nature writing</h2>
             <p className={resources}>There are a few botany books written in a similar style to this one, including <i>Orchid Summer</i> by Jon Dunn, <i>Chasing the Ghost</i> by Peter Marren and <i>The Orchid Hunter</i> by myself. Zoë Devlin’s lovely book <i>Blooming Marvellous</i> is about plant hunting through the year in Ireland and includes recipes, folklore and stories from her life. Richard Mabey’s <i>Weeds</i> is a little book all about our relationship with the plants we call weeds.</p>
+
+            <h1 className={acknowledgementsTitle}>Acknowledgements</h1>
+            <p className={acknowledgements}>Huge thanks to the following people for providing extra photos that I was missing: Gus Routledge, Sharon Pilkington, Ben Goldsmith, Jeremy Roberts, Lucia Stuart, Pete Stroh, Dominic Price, Kevin Walker, Tristan Norton, Lee Schofield, Jon Dunn, Sarah Watts, Dan Watson, Shaila Rao, Elizabeth Cooke, Jonathan Mitchley, Lucy Hodson, Colin French and Alex Prendergast.</p>
           </div>
       </Layout>
     )
