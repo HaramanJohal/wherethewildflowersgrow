@@ -1,14 +1,12 @@
 import React, { useState } from "react"
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 
-import { plantImage, plantLabel, modal, modalPlantImage} from './plant.module.css'
+import { plantImage, plantLabel, modalPlantImage, modalMain, displayBlock, displayNone} from './plant.module.css'
 
 export default function Plant(props) {
-  const [modalVisible, setModalVisible] = useState(false)
+  const [show, setShow] = useState(false)
 
-  const toggleDialog = () => {
-    setModalVisible(!modalVisible)
-  };
+  const showHideClassName = show ? displayBlock : displayNone;
 
   let copyright = null
   if (props.copyrightName !== "") {
@@ -22,27 +20,23 @@ export default function Plant(props) {
         image={image}
         alt="alt text"
         className={plantImage}
-        onClick={toggleDialog}
+        onClick={() => setShow(true)}
       />
       <div className={plantLabel}>
         <p>{props.commonName}</p>
         <p style={{fontStyle: 'italic'}}>{props.latinName}</p>
         {copyright}
       </div>
-      {modalVisible && (
-        <dialog
-          className={modal}
-          open
-          onClick={toggleDialog}
-        >
+      <div className={showHideClassName} onClick={() => setShow(false)}>
+        <div className={modalMain}>
+          {/* <p>hi</p> */}
           <GatsbyImage
             image={image}
             alt="alt text"
             className={modalPlantImage}
-            onClick={toggleDialog}
           />
-        </dialog>
-      )}
+        </div>
+      </div>
     </div>
   )
 }

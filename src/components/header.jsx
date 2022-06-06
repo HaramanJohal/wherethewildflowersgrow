@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
-import { navLink, navLinks, dropdown, dropbtn, dropdownContent, dropdownColumn } from './header.module.css'
+import { navLink, navLinks, dropdown, dropbtn, dropdownContent, dropdownColumn} from './header.module.css'
 
 export default function Header() {
   const chapters1To5 = [...Array(5).keys()].map(
@@ -19,7 +19,9 @@ export default function Header() {
   )
   return (
     <div style={{paddingBottom: "60px"}}>
-      <StaticImage src="../data/Header.jpg" alt="Where the wildflowers grow"/>
+      <Link className={navLink} to="/">
+        <StaticImage src="../data/Header.jpg" alt="Where the wildflowers grow"/>
+      </Link>
       <nav>
         <ul className={navLinks}>
           <li><Link className={navLink} to="/">About</Link></li>
