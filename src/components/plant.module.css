@@ -11,9 +11,6 @@
 }
 
 .modal-main {
-  /* background: #d85e5e; */
-  /* max-width: 90%;
-  max-height: 90%; */
   margin-left: auto;
   margin-right: auto;
   object-fit: contain;
@@ -23,6 +20,7 @@
 
 .modal-plant-image {
   object-fit: contain;
+  max-height: 100%;
 }
 
 .display-block, .display-none {

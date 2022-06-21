@@ -12,12 +12,13 @@ export default function Plant(props) {
   if (props.copyrightName !== "") {
     copyright = <p>© {props.copyrightName}</p>
   }
-  let image = getImage(props.relativeImagePath)
+  let thumbnail = getImage(props.thumbnail)
+  let image = getImage(props.image)
 
   return (
     <div>
       <GatsbyImage
-        image={image}
+        image={thumbnail}
         alt="alt text"
         className={plantImage}
         onClick={() => setShow(true)}

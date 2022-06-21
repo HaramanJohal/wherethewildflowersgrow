@@ -10,7 +10,7 @@ export default function Chapter({ data, pageContext }) {
   console.log(data)
   console.log(pageContext)
   const images = data.allPlantMetadataJson.nodes[0].plants.map(
-    plant => <Plant relativeImagePath={plant.relativeImagePath} commonName={plant.commonName} latinName={plant.latinName} copyrightName={plant.copyrightName} />
+    plant => <Plant thumbnail={plant.relativeImagePath.childImageSharp.thumbnail} image={plant.relativeImagePath.childImageSharp.gatsbyImageData} commonName={plant.commonName} latinName={plant.latinName} copyrightName={plant.copyrightName} />
   )
   let chapterTitles = [
     "Botanising by Bike",
@@ -60,7 +60,8 @@ export const query = graphql`
           imageName
           relativeImagePath {
             childImageSharp {
-              gatsbyImageData
+              gatsbyImageData(layout: FULL_WIDTH, transformOptions: {fit: CONTAIN, cropFocus: ENTROPY})
+              thumbnail: gatsbyImageData(layout: FULL_WIDTH, transformOptions: {fit: COVER})
             }
           }
         }
