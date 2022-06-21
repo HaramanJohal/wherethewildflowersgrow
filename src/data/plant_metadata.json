@@ -1079,7 +1079,7 @@
             },
             {
                 "commonName": "Common Broomrape",
-                "latinName": "Orobanche minor\\\\",
+                "latinName": "Orobanche minor",
                 "imageName": "Common_Broomrape_1.JPG",
                 "relativeImagePath": "./plant_images/Common_Broomrape_1.JPG",
                 "copyrightName": ""
@@ -1097,6 +1097,13 @@
                 "imageName": "Common_Stork_s_bill_1.JPG",
                 "relativeImagePath": "./plant_images/Common_Stork_s_bill_1.JPG",
                 "copyrightName": ""
+            },
+            {
+                "commonName": "Cornish Heath",
+                "latinName": "Erica vagans",
+                "imageName": "Cornish_Heath_1.JPG",
+                "relativeImagePath": "./plant_images/Cornish_Heath_1.JPG",
+                "copyrightName": "Colin French"
             },
             {
                 "commonName": "Cow Parsley",
@@ -1188,6 +1195,13 @@
                 "imageName": "Lady_fern_1.JPG",
                 "relativeImagePath": "./plant_images/Lady_fern_1.JPG",
                 "copyrightName": "Gus Routledge"
+            },
+            {
+                "commonName": "Long-headed Clover",
+                "latinName": "Trifolium incarnatum ssp. molinerii",
+                "imageName": "Long_headed_Clover_1.JPG",
+                "relativeImagePath": "./plant_images/Long_headed_Clover_1.JPG",
+                "copyrightName": "Jonathan Mitchley"
             },
             {
                 "commonName": "Lords-and-ladies",
@@ -1302,6 +1316,34 @@
                 "copyrightName": ""
             },
             {
+                "commonName": "Twin-headed Clover",
+                "latinName": "Trifolium bocconei",
+                "imageName": "Twin_headed_Clover_1.JPG",
+                "relativeImagePath": "./plant_images/Twin_headed_Clover_1.JPG",
+                "copyrightName": "Colin French"
+            },
+            {
+                "commonName": "Upright Clover",
+                "latinName": "Trifolium strictum",
+                "imageName": "Upright_Clover_1.JPG",
+                "relativeImagePath": "./plant_images/Upright_Clover_1.JPG",
+                "copyrightName": "Colin French"
+            },
+            {
+                "commonName": "Western Clover",
+                "latinName": "Trifolium occidentale",
+                "imageName": "Western_Clover_1.JPG",
+                "relativeImagePath": "./plant_images/Western_Clover_1.JPG",
+                "copyrightName": "Jonathan Mitchley"
+            },
+            {
+                "commonName": "Wild Asparagus",
+                "latinName": "Asparagus officinalis ssp. prostratus",
+                "imageName": "Wild_Asparagus_1.JPG",
+                "relativeImagePath": "./plant_images/Wild_Asparagus_1.JPG",
+                "copyrightName": "Colin French"
+            },
+            {
                 "commonName": "Wild Thyme",
                 "latinName": "Thymus polytrichus",
                 "imageName": "Wild_Thyme_2.JPG",
@@ -1321,48 +1363,6 @@
                 "imageName": "Yorkshire_fog_1.JPG",
                 "relativeImagePath": "./plant_images/Yorkshire_fog_1.JPG",
                 "copyrightName": ""
-            },
-            {
-                "commonName": "Long-headed Clover",
-                "latinName": "Trifolium incarnatum ssp. molinerii",
-                "imageName": "Long_headed_Clover_1.JPG",
-                "relativeImagePath": "./plant_images/Long_headed_Clover_1.JPG",
-                "copyrightName": "Jonathan Mitchley"
-            },
-            {
-                "commonName": "Western Clover",
-                "latinName": "Trifolium occidentale",
-                "imageName": "Western_Clover_1.JPG",
-                "relativeImagePath": "./plant_images/Western_Clover_1.JPG",
-                "copyrightName": "Jonathan Mitchley"
-            },
-            {
-                "commonName": "Upright Clover",
-                "latinName": "Trifolium strictum",
-                "imageName": "Upright_Clover_1.JPG",
-                "relativeImagePath": "./plant_images/Upright_Clover_1.JPG",
-                "copyrightName": "Colin French"
-            },
-            {
-                "commonName": "Twin-headed Clover",
-                "latinName": "Trifolium bocconei",
-                "imageName": "Twin_headed_Clover_1.JPG",
-                "relativeImagePath": "./plant_images/Twin_headed_Clover_1.JPG",
-                "copyrightName": "Colin French"
-            },
-            {
-                "commonName": "Wild Asparagus",
-                "latinName": "Asparagus officinalis ssp. prostratus",
-                "imageName": "Wild_Asparagus_1.JPG",
-                "relativeImagePath": "./plant_images/Wild_Asparagus_1.JPG",
-                "copyrightName": "Colin French"
-            },
-            {
-                "commonName": "Cornish Heath",
-                "latinName": "Erica vegans",
-                "imageName": "Cornish_Heath_1.JPG",
-                "relativeImagePath": "./plant_images/Cornish_Heath_1.JPG",
-                "copyrightName": "Colin French"
             }
         ]
     },
@@ -1617,7 +1617,7 @@
                 "latinName": "Prunus padus",
                 "imageName": "Bird_Cherry_1.JPG",
                 "relativeImagePath": "./plant_images/Bird_Cherry_1.JPG",
-                "copyrightName": ""
+                "copyrightName": "Gus Routledge"
             },
             {
                 "commonName": "Bitter-vetch",
@@ -2040,7 +2040,7 @@
                 "latinName": "Arenaria norvegica ssp. norvegica",
                 "imageName": "Arctic_Sandwort_2.JPG",
                 "relativeImagePath": "./plant_images/Arctic_Sandwort_2.JPG",
-                "copyrightName": ""
+                "copyrightName": "Kevin Walker"
             },
             {
                 "commonName": "Autumn Gentian",
@@ -3827,7 +3827,7 @@
             },
             {
                 "commonName": "Yew",
-                "latinName": "Taxus beccata",
+                "latinName": "Taxus baccata",
                 "imageName": "Yew_4.JPG",
                 "relativeImagePath": "./plant_images/Yew_4.JPG",
                 "copyrightName": "Lucy Hodson"
