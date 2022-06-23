@@ -6,7 +6,7 @@ import { container } from './layout.module.css'
 
 export default function Layout(props) {
   console.log(
-    "Instagram icons created by Freepik - Flaticon\nTwitter icons created by Retinaicons - Flaticon\nWebsite icons created by LAFS - Flaticon"
+    "Instagram icons created by Freepik - Flaticon\nTwitter icons created by Retinaicons - Flaticon\nWebsite icons created by LAFS - Flaticon\nShoutout to margin maestro Kamilė"
   )
   return (
     <div className={container}>

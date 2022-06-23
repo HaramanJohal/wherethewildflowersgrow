@@ -7,8 +7,6 @@ import Gallery from "../../components/gallery"
 import Plant from "../../components/plant"
 
 export default function Chapter({ data, pageContext }) {
-  console.log(data)
-  console.log(pageContext)
   const images = data.allPlantMetadataJson.nodes[0].plants.map(
     plant => <Plant thumbnail={plant.relativeImagePath.childImageSharp.thumbnail} image={plant.relativeImagePath.childImageSharp.gatsbyImageData} commonName={plant.commonName} latinName={plant.latinName} copyrightName={plant.copyrightName} />
   )
@@ -35,7 +33,6 @@ export default function Chapter({ data, pageContext }) {
     "Something Worth Protecting"
   ]
 
-  console.log(`tuna: ${parseInt(data.allPlantMetadataJson.nodes[0].chapterNumber)}`)
   return(
     <Layout>
       <ChapterHeader chapterNumber={data.allPlantMetadataJson.nodes[0].chapterNumber} chapterName={chapterTitles[parseInt(data.allPlantMetadataJson.nodes[0].chapterNumber)-1]}/>
