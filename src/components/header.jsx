@@ -25,7 +25,6 @@ export default function Header() {
       <nav>
         <ul className={navLinks}>
           <li><Link className={navLink} to="/">About</Link></li>
-          <li><Link className={navLink} to="/resources/">Resources</Link></li>
           <li>
             <div class={dropdown}>
               <button class={dropbtn}>Plants</button>
@@ -45,6 +44,7 @@ export default function Header() {
               </div>
             </div>
           </li>
+          <li><Link className={navLink} to="/resources/">Resources</Link></li>
         </ul>
       </nav>
     </div>
